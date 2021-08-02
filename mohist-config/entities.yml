@@ -31,3 +31,7 @@ overrides:
     skip-every: default
   net-minecraft-entity-item-FallingBlockEntity:
     skip-every: default
+  net-minecraft-entity-passive-WolfEntity:
+    skip-every: default
+  net-minecraft-entity-passive-RabbitEntity:
+    skip-every: default
