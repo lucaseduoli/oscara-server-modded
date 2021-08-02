@@ -35,3 +35,23 @@ overrides:
     skip-every: default
   net-minecraft-entity-passive-RabbitEntity:
     skip-every: default
+  net-minecraft-entity-player-ServerPlayerEntity:
+    skip-every: default
+  net-minecraft-entity-passive-BatEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SkeletonEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ZombieEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SpiderEntity:
+    skip-every: default
+  net-minecraft-entity-monster-CreeperEntity:
+    skip-every: default
+  net-minecraft-entity-monster-WitchEntity:
+    skip-every: default
+  net-minecraft-entity-monster-EndermanEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ZombieVillagerEntity:
+    skip-every: default
+  net-minecraft-entity-passive-SquidEntity:
+    skip-every: default
