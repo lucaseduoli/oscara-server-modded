@@ -55,3 +55,7 @@ overrides:
     skip-every: default
   net-minecraft-entity-passive-SquidEntity:
     skip-every: default
+  net-minecraft-entity-monster-HuskEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SlimeEntity:
+    skip-every: default
