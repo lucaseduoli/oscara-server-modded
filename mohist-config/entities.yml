@@ -59,3 +59,123 @@ overrides:
     skip-every: default
   net-minecraft-entity-monster-SlimeEntity:
     skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-passive-ZebraEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCrow:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCrocodile:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityFly:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCockroach:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-AquaFishEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCentipedeHead:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCentipedeBody:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityGazelle:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityElephant:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityGrizzlyBear:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityEmu:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityRaccoon:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-hostile-lostminer-LostMinerEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityKangaroo:
+    skip-every: default
+  net-minecraft-entity-passive-fish-SalmonEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityPlatypus:
+    skip-every: default
+  net-minecraft-entity-passive-BeeEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityRoadrunner:
+    skip-every: default
+  slimeknights-tconstruct-world-entity-SkySlimeEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityTasmanianDevil:
+    skip-every: default
+  mekanism-common-entity-EntityFlame:
+    skip-every: default
+  net-minecraft-entity-item-ExperienceOrbEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityRattlesnake:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-hostile-desertbandit-DesertBanditEntity:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-hostile-desertbandit-DesertBanditArbalistEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-ArrowEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityTarantulaHawk:
+    skip-every: default
+  com-legacy-goodnightsleep-entity-GNSSpawnerEntity:
+    skip-every: default
+  com-legacy-goodnightsleep-entity-dream-BabyCreeperEntity:
+    skip-every: default
+  com-legacy-goodnightsleep-entity-dream-UnicornEntity:
+    skip-every: default
+  net-minecraft-entity-monster-VexEntity:
+    skip-every: default
+  twilightforest-entity-StableIceCoreEntity:
+    skip-every: default
+  twilightforest-entity-CarminiteGolemEntity:
+    skip-every: default
+  twilightforest-entity-TrollEntity:
+    skip-every: default
+  twilightforest-entity-BlockChainGoblinEntity:
+    skip-every: default
+  twilightforest-entity-CubeOfAnnihilationEntity:
+    skip-every: default
+  de-maxhenkel-corpse-entities-CorpseEntity:
+    skip-every: default
+  twilightforest-entity-projectile-IceSnowballEntity:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-hostile-desertbandit-DesertBanditArcherEntity:
+    skip-every: default
+  net-minecraft-entity-effect-LightningBoltEntity:
+    skip-every: default
+  net-minecraft-entity-monster-ZombifiedPiglinEntity:
+    skip-every: default
+  net-minecraft-entity-monster-piglin-PiglinEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityDropBear:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCrimsonMosquito:
+    skip-every: default
+  net-minecraft-entity-monster-HoglinEntity:
+    skip-every: default
+  net-minecraft-entity-monster-MagmaCubeEntity:
+    skip-every: default
+  net-minecraft-entity-passive-StriderEntity:
+    skip-every: default
+  net-minecraft-entity-monster-GhastEntity:
+    skip-every: default
+  net-minecraft-entity-monster-BlazeEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityBoneSerpent:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityBoneSerpentPart:
+    skip-every: default
+  net-minecraft-entity-monster-piglin-PiglinBruteEntity:
+    skip-every: default
+  net-minecraft-entity-monster-DrownedEntity:
+    skip-every: default
+  net-minecraft-entity-merchant-villager-VillagerEntity:
+    skip-every: default
+  net-minecraft-entity-passive-IronGolemEntity:
+    skip-every: default
+  slimeknights-tconstruct-gadgets-entity-EflnBallEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-EyeOfEnderEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-DonkeyEntity:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-hostile-desertbandit-DesertBanditMasterEntity:
+    skip-every: default

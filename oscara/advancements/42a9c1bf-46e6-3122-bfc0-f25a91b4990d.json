@@ -1,0 +1,824 @@
+{
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2021-08-03 01:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2021-08-03 01:23:34 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2021-08-03 01:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2021-08-03 01:21:03 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper": {
+    "criteria": {
+      "has_ore_copper": "2021-08-03 01:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-08-03 01:24:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2021-08-03 01:25:33 +0000"
+    },
+    "done": true
+  },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2021-08-03 01:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2021-08-03 01:22:37 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2021-08-03 01:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2021-08-03 01:23:28 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/decorations/crafting/torch": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-08-03 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/wooden_fillet_knife": {
+    "criteria": {
+      "has_items": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "good_nights_sleep:recipes/gns_blocks/wretched_bed": {
+    "criteria": {
+      "has_item": "2021-08-03 01:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2021-08-03 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2021-08-03 01:07:04 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_shovel_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2021-08-03 01:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2021-08-03 01:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2021-08-03 01:02:47 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2021-08-03 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fillet_knife": {
+    "criteria": {
+      "has_items": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/slime/sky/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2021-08-03 01:14:58 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_axe_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2021-08-03 01:07:04 +0000"
+    },
+    "done": true
+  },
+  "betterdefaultbiomes:root": {
+    "criteria": {
+      "tick": "2021-08-03 01:02:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2021-08-03 01:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "good_nights_sleep:recipes/gns_items/rainbow_ingot_from_blasting": {
+    "criteria": {
+      "has_item": "2021-08-03 01:13:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_oak_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/earth/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2021-08-03 01:15:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2021-08-03 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2021-08-03 01:21:03 +0000"
+    },
+    "done": true
+  },
+  "good_nights_sleep:root": {
+    "criteria": {
+      "entered_dream": "2021-08-03 01:12:46 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2021-08-03 01:18:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "backpacker:recipes/endersack": {
+    "criteria": {
+      "has_ender_eye": "2021-08-03 01:31:09 +0000"
+    },
+    "done": true
+  },
+  "good_nights_sleep:dream/dream": {
+    "criteria": {
+      "entered_dream": "2021-08-03 01:12:46 +0000"
+    },
+    "done": true
+  },
+  "advancedperipherals:recipes/advancedperipheralstab/ar_goggles": {
+    "criteria": {
+      "has_item": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2021-08-03 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "good_nights_sleep:recipes/gns_blocks/luxurious_bed": {
+    "criteria": {
+      "has_item": "2021-08-03 01:12:28 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_axe_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hoe_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_pickaxe_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2021-08-03 01:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-03 01:05:26 +0000",
+      "minecraft:desert_hills": "2021-08-03 01:27:27 +0000",
+      "minecraft:desert": "2021-08-03 01:11:48 +0000",
+      "minecraft:savanna_plateau": "2021-08-03 01:27:35 +0000",
+      "minecraft:river": "2021-08-03 01:16:28 +0000",
+      "minecraft:wooded_hills": "2021-08-03 01:03:58 +0000",
+      "minecraft:savanna": "2021-08-03 01:14:29 +0000",
+      "minecraft:plains": "2021-08-03 01:02:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2021-08-03 01:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2021-08-03 01:06:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-08-03 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_hoe_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2021-08-03 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-08-03 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2021-08-03 01:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/tools/diamond_fishing_rod": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "broad_axe": "2021-08-03 01:20:49 +0000"
+    },
+    "done": false
+  },
+  "aquaculture:recipes/tools/stone_fillet_knife": {
+    "criteria": {
+      "has_items": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "immersiveposts:recipes/immersiveposts/postbase": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2021-08-03 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-08-03 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2021-08-03 01:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-03 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:berries": {
+    "criteria": {
+      "blueberries": "2021-08-03 01:06:26 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2021-08-03 01:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2021-08-03 01:21:27 +0000",
+      "minecraft:spider": "2021-08-03 01:21:01 +0000",
+      "minecraft:zombie": "2021-08-03 01:05:47 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/diamond_hammer": {
+    "criteria": {
+      "has_diamond_ingot": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2021-08-03 01:31:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-08-03 01:24:46 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/silver_diamond_chest": {
+    "criteria": {
+      "has_item": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2021-08-03 01:14:25 +0000"
+    },
+    "done": true
+  },
+  "good_nights_sleep:recipes/gns_items/rainbow_ingot_from_smelting": {
+    "criteria": {
+      "has_item": "2021-08-03 01:13:10 +0000"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2021-08-03 01:02:47 +0000"
+    },
+    "done": true
+  },
+  "simplefarming:root": {
+    "criteria": {
+      "pickup_seed": "2021-08-03 01:05:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2021-08-03 01:31:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "seared_stone": "2021-08-03 01:20:49 +0000"
+    },
+    "done": false
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/ingot_copper_from_blasting": {
+    "criteria": {
+      "has_ore_copper": "2021-08-03 01:10:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2021-08-03 01:25:00 +0000",
+      "minecraft:nether_wastes": "2021-08-03 01:24:56 +0000",
+      "minecraft:soul_sand_valley": "2021-08-03 01:25:42 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:root": {
+    "criteria": {
+      "make_portal": "2021-08-03 01:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "simply_jetpacks": "2021-08-03 01:02:47 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/upgrades/wood_to_copper_chest_upgrade": {
+    "criteria": {
+      "has_item": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2021-08-03 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-03 01:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2021-08-03 01:08:53 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/infusion_pedestal": {
+    "criteria": {
+      "has_obsidian": "2021-08-03 01:24:30 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/terminite_sword_handle_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2021-08-03 01:08:19 +0000"
+    },
+    "done": true
+  },
+  "betterendforge:recipes/betterendforge/thallasium_hammer_smithing": {
+    "criteria": {
+      "has_stick": "2021-08-03 01:08:23 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

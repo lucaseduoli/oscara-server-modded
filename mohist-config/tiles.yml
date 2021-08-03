@@ -19,3 +19,17 @@ overrides:
     skip-every: default
   dan200-computercraft-shared-turtle-blocks-TileTurtle:
     skip-every: default
+  net-minecraft-tileentity-BeehiveTileEntity:
+    skip-every: default
+  appeng-tile-storage-SkyChestTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-SilverChestTileEntity:
+    skip-every: default
+  dan200-computercraft-shared-computer-blocks-TileComputer:
+    skip-every: default
+  net-minecraft-tileentity-SmokerTileEntity:
+    skip-every: default
+  net-minecraft-tileentity-BellTileEntity:
+    skip-every: default
+  net-minecraft-tileentity-CampfireTileEntity:
+    skip-every: default
