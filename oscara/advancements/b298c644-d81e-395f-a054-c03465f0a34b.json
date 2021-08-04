@@ -1,0 +1,104 @@
+{
+  "simplyjetpacks:vanilla/root_vanilla": {
+    "criteria": {
+      "code_trigger": "2021-08-04 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "betterdefaultbiomes:this_is_new": {
+    "criteria": {
+      "betterdefaultbiomes:killed_by_desert_bandit_archer": "2021-08-04 00:29:18 +0000"
+    },
+    "done": true
+  },
+  "simplyjetpacks:ie/root_ie": {
+    "criteria": {
+      "code_trigger": "2021-08-04 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-04 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-08-04 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2021-08-04 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "simplyjetpacks:root": {
+    "criteria": {
+      "simply_jetpacks": "2021-08-04 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "betterdefaultbiomes:root": {
+    "criteria": {
+      "tick": "2021-08-04 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/materials_and_you": {
+    "criteria": {
+      "crafted_book": "2021-08-04 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-08-04 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-08-04 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "simplyjetpacks:mek/root_mek": {
+    "criteria": {
+      "code_trigger": "2021-08-04 00:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2021-08-04 00:29:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-08-04 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-08-04 00:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-08-04 00:18:53 +0000",
+      "minecraft:desert": "2021-08-04 00:20:55 +0000",
+      "minecraft:river": "2021-08-04 00:29:44 +0000",
+      "minecraft:wooded_hills": "2021-08-04 00:18:36 +0000",
+      "minecraft:savanna": "2021-08-04 00:29:59 +0000",
+      "minecraft:plains": "2021-08-04 00:18:16 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

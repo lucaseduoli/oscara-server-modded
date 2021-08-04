@@ -179,3 +179,5 @@ overrides:
     skip-every: default
   xratedjunior-betterdefaultbiomes-common-entity-hostile-desertbandit-DesertBanditMasterEntity:
     skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-projectile-BanditArrowEntity:
+    skip-every: default
