@@ -181,3 +181,21 @@ overrides:
     skip-every: default
   xratedjunior-betterdefaultbiomes-common-entity-projectile-BanditArrowEntity:
     skip-every: default
+  net-minecraft-entity-projectile-PotionEntity:
+    skip-every: default
+  appeng-entity-ChargedQuartzEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-EggEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-FishingBobberEntity:
+    skip-every: default
+  net-minecraft-entity-monster-CaveSpiderEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityGuster:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntitySandShot:
+    skip-every: default
+  net-minecraft-entity-passive-CatEntity:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-passive-MuddyPigEntity:
+    skip-every: default

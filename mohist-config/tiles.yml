@@ -33,3 +33,11 @@ overrides:
     skip-every: default
   net-minecraft-tileentity-CampfireTileEntity:
     skip-every: default
+  net-minecraft-tileentity-FurnaceTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-IronChestTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-DiamondChestTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-GoldChestTileEntity:
+    skip-every: default
