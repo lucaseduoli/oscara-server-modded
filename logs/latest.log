@@ -1,596 +1,265 @@
-[01:20:43] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.0, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui, launchedWithCustomJava11]
-[01:20:43] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.0.9+86+master.3cf110c starting: java version 11.0.10 by AdoptOpenJDK
-[01:20:43] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[01:20:43] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/home/luquinha_ero/oscara-server-modded/libraries/org/spongepowered/mixin/0.8.2/mixin-0.8.2.jar Service=ModLauncher Env=SERVER
-[01:20:47] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui, launchedWithCustomJava11]
-[01:20:58] [main/INFO] [PluginManager/]: Scanning classes for titanium
-[01:20:58] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class IndustrialForegoingResourcePlugin for plugin resources
-[01:20:58] [main/INFO] [PluginManager/]: Found FeaturePluginInstance for class DefaultResourceRegistryPlugin for plugin resources
-[01:20:59] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `debug`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[01:20:59] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `citadel` for name `citadel_book`, expected `minecraft`. This could be a intended override, but in most cases indicates a broken mod.
-[01:20:59] [modloading-worker-3/INFO] [PluginManager/]: Scanning classes for industrialforegoing
-[01:20:59] [modloading-worker-3/INFO] [PluginManager/]: Found FeaturePluginInstance for class ImmersiveEngineeringPlugin for plugin immersiveengineering
-[01:20:59] [modloading-worker-3/INFO] [PluginManager/]: Found FeaturePluginInstance for class CuriosPlugin for plugin curios
-[01:20:59] [modloading-worker-3/INFO] [PluginManager/]: Constructed class ImmersiveEngineeringPlugin for plugin immersiveengineering for mod industrialforegoing
-[01:20:59] [modloading-worker-3/INFO] [PluginManager/]: Constructed class CuriosPlugin for plugin curios for mod industrialforegoing
-[01:20:59] [modloading-worker-3/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class ImmersiveEngineeringPlugin
-[01:20:59] [modloading-worker-1/INFO] [PluginManager/]: Scanning classes for titanium
-[01:20:59] [modloading-worker-3/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class CuriosPlugin
-[01:20:59] [modloading-worker-1/INFO] [PluginManager/]: Constructed class IndustrialForegoingResourcePlugin for plugin resources for mod titanium
-[01:20:59] [modloading-worker-1/INFO] [PluginManager/]: Constructed class DefaultResourceRegistryPlugin for plugin resources for mod titanium
-[01:20:59] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class IndustrialForegoingResourcePlugin
-[01:20:59] [modloading-worker-0/INFO] [JarSignVerifier/]: Mod usefulbackpacks is signed with a valid certificate.
-[01:21:00] [modloading-worker-1/INFO] [PluginManager/]: Executing phase CONSTRUCTION for plugin class DefaultResourceRegistryPlugin
-[01:21:00] [modloading-worker-3/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class ImmersiveEngineeringPlugin
-[01:21:00] [modloading-worker-3/INFO] [PluginManager/]: Executing phase PRE_INIT for plugin class CuriosPlugin
-[01:21:00] [modloading-worker-1/INFO] [Advanced Peripherals/]: AdvancedPeripherals says hello!
-[01:21:01] [modloading-worker-0/INFO] [betterdefaultbiomes/]: Built Better Default Biomes Config
-[01:21:01] [modloading-worker-3/INFO] [PluginManager/]: Executing phase INIT for plugin class ImmersiveEngineeringPlugin
-[01:21:01] [modloading-worker-3/INFO] [PluginManager/]: Executing phase INIT for plugin class CuriosPlugin
-[01:21:01] [modloading-worker-3/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class ImmersiveEngineeringPlugin
-[01:21:01] [modloading-worker-3/INFO] [PluginManager/]: Executing phase POST_INIT for plugin class CuriosPlugin
-[01:21:02] [modloading-worker-3/INFO] [JarSignVerifier/]: Mod uteamcore is signed with a valid certificate.
-[01:21:04] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.0, for MC 1.16.5 with MCP 20210115.111550
-[01:21:04] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.0 Initialized
-[01:21:04] [modloading-worker-2/INFO] [com.mohistmc.MohistMC/]: EventDispatcherRegistry initialized
-[01:21:05] [modloading-worker-3/INFO] [STDOUT/]: [wayoftime.bloodmagic.structures.DungeonRoomLoader:loadDungeons:69]: # schematics: 5
-[01:21:05] [modloading-worker-3/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[01:21:06] [modloading-worker-2/INFO] [twilightforest/]: Loaded compatibility for mod immersiveengineering.
-[01:21:16] [main/INFO] [betterdefaultbiomes/]: Registering Blocks
-[01:21:21] [main/INFO] [betterdefaultbiomes/]: Items registered
-[01:21:21] [main/INFO] [betterdefaultbiomes/]: Spawn Egss registered
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:122]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/melee_damage.json, path: /data/bloodmagic/anointment/melee_damage.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:122]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/holy_water.json, path: /data/bloodmagic/anointment/holy_water.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:122]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/hidden_knowledge.json, path: /data/bloodmagic/anointment/hidden_knowledge.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:122]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/quick_draw.json, path: /data/bloodmagic/anointment/quick_draw.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.AnointmentRegistrar:parseDefinition:122]: Attempting to load Anointment: modjar://bloodmagic/data/bloodmagic/anointment/bow_power.json, path: /data/bloodmagic/anointment/bow_power.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/arrow_protect.json, path: /data/bloodmagic/living_armor/arrow_protect.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/fall_protect.json, path: /data/bloodmagic/living_armor/fall_protect.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/physical_protect.json, path: /data/bloodmagic/living_armor/physical_protect.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/jump.json, path: /data/bloodmagic/living_armor/jump.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/health.json, path: /data/bloodmagic/living_armor/health.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/experienced.json, path: /data/bloodmagic/living_armor/experienced.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/sprint_attack.json, path: /data/bloodmagic/living_armor/sprint_attack.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/self_sacrifice.json, path: /data/bloodmagic/living_armor/self_sacrifice.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/speed.json, path: /data/bloodmagic/living_armor/speed.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/poison_resist.json, path: /data/bloodmagic/living_armor/poison_resist.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/fire_resist.json, path: /data/bloodmagic/living_armor/fire_resist.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/digging.json, path: /data/bloodmagic/living_armor/digging.json
-[01:21:22] [main/INFO] [STDOUT/]: [wayoftime.bloodmagic.core.LivingArmorRegistrar:parseDefinition:177]: Attempting to load Living Armour Upgrade: modjar://bloodmagic/data/bloodmagic/living_armor/knockback_resist.json, path: /data/bloodmagic/living_armor/knockback_resist.json
-[01:21:22] [main/INFO] [wayoftime.bloodmagic.BloodMagic/]: Attempting to register Tile Entities
-[01:21:22] [main/INFO] [betterdefaultbiomes/]: Enchantments registered
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:hunter, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:head_hunter, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:jungle_creeper, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:lost_miner, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:frozen_zombie, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:desert_bandit, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:desert_bandit_archer, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:desert_bandit_arbalist, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:desert_bandit_master, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:muddy_pig, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:camel, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:duck, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:zebra, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for betterdefaultbiomes:frog, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/INFO] [betterdefaultbiomes/]: EntityTypes registered
-[01:21:23] [main/INFO] [betterdefaultbiomes/]: EntitySpawnPlacements registered
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:grizzly_bear, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:roadrunner, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:bone_serpent, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:bone_serpent_part, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:gazelle, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:crocodile, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:fly, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:hummingbird, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:orca, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:sunbird, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:gorilla, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:crimson_mosquito, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:rattlesnake, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:endergrade, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:hammerhead_shark, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:lobster, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:komodo_dragon, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:capuchin_monkey, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:centipede_head, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:centipede_body, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:centipede_tail, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:warped_toad, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:moose, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:mimicube, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:raccoon, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:blobfish, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:seal, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:cockroach, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:shoebill, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:elephant, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:soul_vulture, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:snow_leopard, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:spectre, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:crow, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:alligator_snapping_turtle, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:mungus, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:mantis_shrimp, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:guster, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:warped_mosco, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:straddler, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:stradpole, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:emu, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:platypus, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:dropbear, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:tasmanian_devil, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:kangaroo, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:cachalot_whale, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:leafcutter_ant, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:enderiophage, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:bald_eagle, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:tiger, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:tarantula_hawk, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:void_worm, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:void_worm_part, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:frilled_shark, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for alexsmobs:mimic_octopus, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for good_nights_sleep:unicorn, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for good_nights_sleep:gummy_bear, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for good_nights_sleep:baby_creeper, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for good_nights_sleep:tormenter, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for good_nights_sleep:herobrine, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for good_nights_sleep:gns_spawner, use EntityAttributeCreationEvent instead.
-[01:21:23] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[01:21:23] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[01:21:24] [main/INFO] [betterdefaultbiomes/]: SoundEvents Registered
-[01:21:24] [main/INFO] [betterdefaultbiomes/]: Registering Features
-[01:21:24] [main/INFO] [betterdefaultbiomes/]: Loaded Better Default Biomes Config.
-[01:21:24] [Thread-0/INFO] [betterdefaultbiomes/]: Constructing Breeding Config Files
-[01:21:24] [Thread-0/INFO] [betterdefaultbiomes/]: Done constructing Breeding Config Files
-[01:21:24] [Thread-0/INFO] [betterdefaultbiomes/]: Constructing Breeding Config Files
-[01:21:24] [Thread-0/INFO] [betterdefaultbiomes/]: Done constructing Breeding Config Files
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class CuriosPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class CuriosPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class CuriosPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class CuriosPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class CuriosPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [main/INFO] [PluginManager/]: Executing phase CONFIG_LOAD for plugin class CuriosPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class CuriosPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class ImmersiveEngineeringPlugin
-[01:21:24] [Thread-0/INFO] [PluginManager/]: Executing phase CONFIG_RELOAD for plugin class CuriosPlugin
-[01:21:25] [modloading-worker-3/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class ImmersiveEngineeringPlugin
-[01:21:25] [modloading-worker-3/INFO] [PluginManager/]: Executing phase COMMON_SETUP for plugin class CuriosPlugin
-[01:21:25] [modloading-worker-2/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Common Setup Method registered.
-[01:21:25] [modloading-worker-2/INFO] [betterdefaultbiomes/]: Constructing Breeding Config Files
-[01:21:25] [modloading-worker-2/INFO] [betterdefaultbiomes/]: Done constructing Breeding Config Files
-[01:21:25] [modloading-worker-2/INFO] [betterdefaultbiomes/]: Registering BiomeFeatures
-[01:21:25] [modloading-worker-2/INFO] [betterdefaultbiomes/]: Setup method registered.
-[01:21:25] [modloading-worker-1/INFO] [Mekanism/]: Version 10.0.21 initializing...
-[01:21:25] [modloading-worker-1/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[01:21:25] [modloading-worker-1/INFO] [Mekanism/]: Loading complete.
-[01:21:25] [modloading-worker-1/INFO] [Mekanism/]: Mod loaded.
-[01:21:25] [modloading-worker-3/INFO] [AE2:C/]: Post Initialization ( started )
-[01:21:25] [modloading-worker-3/INFO] [AE2:C/]: Post Initialization ( ended after 93ms )
-[01:21:25] [Immersive Engineering Contributors Thread/INFO] [immersiveengineering/]: Attempting to download special revolvers from GitHub
-[01:21:26] [main/WARN] [net.minecraftforge.common.ForgeHooks/]: Called deprecated GlobalEntityTypeAttributes#put for mekanism:robit, use EntityAttributeCreationEvent instead.
-[01:21:26] [modloading-worker-0/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[01:21:26] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[01:21:26] [main/INFO] [xaero.common.server.XaeroMinimapServer/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[01:21:26] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[01:21:26] [modloading-worker-0/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Hello from Simply Jetpacks 2
-[01:21:26] [modloading-worker-0/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Got IMC [Hello!]
-[01:21:26] [modloading-worker-0/INFO] [betterdefaultbiomes/]: loadComplete method Completed.
-[01:21:26] [modloading-worker-0/INFO] [STDOUT/]: [com.mrh0.buildersaddition.BuildersAddition:postInit:80]: Builders Addition Initialized!
-[01:21:43] [main/INFO] [betterdefaultbiomes/]: Swamp trees added to: MINECRAFT:SWAMP
-[01:21:43] [main/INFO] [betterdefaultbiomes/]: Swamp trees added to: MINECRAFT:SWAMP_HILLS
-[01:21:43] [main/INFO] [betterdefaultbiomes/]: Palm trees added to: MINECRAFT:BEACH
-[01:21:44] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01:21:45] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, TConstruct-1.16.5-3.1.0.231.jar, industrial-foregoing-1.16.5-3.2.14.3-9.jar, useful_backpacks-1.16.5-1.12.1.90.jar, titanium-1.16.5-3.2.8.4-10.jar, SimplyJetpacks2-1.16.5-2.6.7.1.jar, advancedperipherals-0.6r.jar, treeharvester_1.16.5-2.5.jar, jei-1.16.5-7.7.1.116.jar, movingelevators-1.2.34-mc1.16.5.jar, BetterDefaultBiomes-1.16.4+-Alpha+2.5.3.jar, simplylight-1.16.4-1.1.3.jar, simplefarming-1.16.5-1.3.8.jar, Mekanism-1.16.5-10.0.21.448.jar, caelus-forge-1.16.5-2.1.3.1.jar, curios-forge-1.16.5-4.0.5.2.jar, Mantle-1.16.5-1.6.115.jar, Xaeros_Minimap_21.14.1_Forge_1.16.5.jar, collective-1.16.5-2.43.jar, XaerosWorldMap_1.16.0_Forge_1.16.5.jar, CookingForBlockheads_1.16.5-9.3.3.jar, citadel-1.7.2-1.16.5.jar, alexsmobs-1.11.1.jar, appliedenergistics2-8.4.0.jar, good-nights-sleep-1.16.5-1.2.14.jar, buildersaddition-1.16.5-20210517a.jar, u_team_core-1.16.5-3.2.1.196.jar, curiouselytra-forge-1.16.5-4.0.2.3.jar, cc-tweaked-1.16.5-1.98.1.jar, carryon-1.16.5-1.15.5.15.jar, BetterBurning-1.16.5-6.0.6.jar, ImmersivePetroleum-1.16.5-3.3.0-5.jar, forge-1.16.5-36.2.0-universal.jar, Aquaculture-1.16.5-2.1.20.jar, stackrefill_1.16.5-1.8.jar, BloodMagic-1.16.4-3.1.1-16.jar, twilightforest-1.16.5-4.0.515-universal.jar, refinedstorage-1.9.15.jar, immersiveposts-1.16.5-4.1.1.jar, ImmersiveEngineering-1.16.5-5.0.2-137.jar, ironchest-1.16.5-11.2.13.jar, corpse-1.16.5-1.0.5.jar, bukkit
-[01:21:49] [Worker-Main-4/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[01:21:49] [Worker-Main-4/ERROR] [net.minecraft.tags.TagCollectionReader/]: Couldnt load {0} tag {1} as it is missing following references: {2}
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ruby as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tetrahedrite as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bitumen as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/peridot as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/galena as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tungsten as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/iridium as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/pyrite as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/cinnabar as its serializer returned null
-[01:21:50] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sheldonite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorium as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/niter as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/platinum as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sapphire as its serializer returned null
-[01:21:51] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe industrialforegoing:manual
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sodalite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ardite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bauxite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/draconium as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sulfur as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/arcane as its serializer returned null
-[01:21:51] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe bloodmagic:guide
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_fluid/oil as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ruby as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tetrahedrite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bitumen as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/peridot as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/galena as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/tungsten as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/iridium as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/pyrite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/cinnabar as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sheldonite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorium as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/yellorite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/niter as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/platinum as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sapphire as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sodalite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/ardite as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/bauxite as its serializer returned null
-[01:21:51] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe immersivepetroleum:hydrotreater/sulfur_recovery
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/draconium as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/sulfur as its serializer returned null
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_ore/arcane as its serializer returned null
-[01:21:51] [Worker-Main-4/ERROR] [net.minecraft.item.crafting.RecipeManager/]: Parsing error loading recipe immersivepetroleum:distillationtower/oilcracking
-[01:21:51] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Skipping loading recipe industrialforegoing:laser_drill_fluid/oil as its serializer returned null
-[01:21:54] [Worker-Main-4/WARN] [net.minecraft.loot.LootTableManager/]: Found validation problem in {alexsmobs:gameplay/seal_reward}.pools[0].entries[1].functions[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[01:21:54] [Worker-Main-4/ERROR] [net.minecraft.advancements.AdvancementManager/]: Parsing error loading custom advancement twilightforest:alt/compat/tconstruct: Unknown item id 'tconstruct:book'
-[01:21:55] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2,867 recipes
-[01:21:55] [Worker-Main-4/INFO] [immersivepetroleum/]: Loading Distillation Recipes.
-[01:21:55] [Worker-Main-4/INFO] [immersivepetroleum/]: Loading Reservoirs.
-[01:21:55] [Worker-Main-4/INFO] [immersivepetroleum/]: Loading Coker-Unit Recipes.
-[01:21:55] [Worker-Main-4/INFO] [immersivepetroleum/]: Loading Sulfur Recovery Recipes.
-[01:21:55] [Worker-Main-4/INFO] [immersiveengineering/]: Couldn't fully analyze 1 jetpack_vanilla4_armored, missing knowledge for {1 netherite_chestplate=1.0}
-[01:21:55] [Worker-Main-4/INFO] [immersiveengineering/]: Couldn't fully analyze 1 jetpack_vanilla3_armored, missing knowledge for {1 diamond_chestplate=1.0}
-[01:21:55] [Worker-Main-4/INFO] [immersiveengineering/]: Finished recipe profiler for Arc Recycling, took 489 milliseconds
-[01:21:55] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: 25 materials loaded
-[01:21:55] [Worker-Main-4/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 75 stats loaded for 25 materials
-[01:21:56] [Worker-Main-4/INFO] [immersiveengineering/]: Recipes for potions: alexsmobs:long_poison_resistance, alexsmobs:poison_resistance, minecraft:strong_swiftness, minecraft:long_swiftness, alexsmobs:strong_knockback_resistance, minecraft:strength, alexsmobs:strong_soulsteal, minecraft:fire_resistance, minecraft:strong_leaping, minecraft:weakness, minecraft:leaping, alexsmobs:clinging, minecraft:long_regeneration, alexsmobs:long_lava_vision, minecraft:turtle_master, alexsmobs:long_soulsteal, minecraft:thick, minecraft:long_turtle_master, minecraft:strong_turtle_master, minecraft:strong_regeneration, minecraft:swiftness, minecraft:long_invisibility, minecraft:water, alexsmobs:bug_pheromones, minecraft:night_vision, minecraft:strong_healing, minecraft:harming, minecraft:strong_slowness, minecraft:water_breathing, alexsmobs:knockback_resistance, minecraft:long_slow_falling, minecraft:healing, minecraft:long_fire_resistance, minecraft:long_weakness, alexsmobs:long_knockback_resistance, alexsmobs:lava_vision, minecraft:long_strength, alexsmobs:soulsteal, minecraft:long_slowness, minecraft:slow_falling, minecraft:long_leaping, minecraft:regeneration, minecraft:strong_strength, alexsmobs:speed_iii, minecraft:invisibility, minecraft:awkward, minecraft:long_night_vision, alexsmobs:long_bug_pheromones, alexsmobs:long_clinging, minecraft:long_water_breathing, minecraft:long_poison, minecraft:mundane, minecraft:slowness, minecraft:strong_harming, minecraft:strong_poison, minecraft:poison
-[01:22:03] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:sheetmetals, quark:planks_vertical_slab, appliedenergistics2:spatial/whitelist, good_nights_sleep:ores/candy, twilightforest:twilight_oak_logs, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:storage_blocks/nickel, forge:glass/colorless, alexsmobs:roadrunner_spawns, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, twilightforest:timewood_logs, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, good_nights_sleep:storage_blocks/zitrite, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, forge:sheetmetals/nickel, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, twilightforest:structure_banned_interactions, forge:sheetmetals/steel, forge:fences/steel, forge:storage_blocks/coal_coke, good_nights_sleep:logs/dead_logs, forge:storage_blocks/iron, tconstruct:smeltery/tanks, forge:glass_panes/brown, good_nights_sleep:storage_blocks/necrum, minecraft:mushroom_hyphae, twilightforest:mangrove_logs, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, forge:storage_blocks/carminite, twilightforest:sortwood_logs, minecraft:dark_oak_logs, forge:storage_blocks/steel, tconstruct:scorched_blocks, twilightforest:portal/fluid, minecraft:coral_plants, forge:glass_panes, forge:storage_blocks/arctic_fur, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, forge:ores/fluorite, industrialforegoing:machine_frame/simple, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, good_nights_sleep:storage_blocks/negatite, alexsmobs:drops_bananas, good_nights_sleep:planks, twilightforest:canopy_logs, forge:storage_blocks/steeleaf, forge:storage_blocks/bronze, forge:storage_blocks/soulsteel, twilightforest:mining_logs, good_nights_sleep:ores/rainbow, twilightforest:antibuilder_ignores, forge:sheetmetals/gold, twilightforest:dark_tower_excluded_pots, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:sheetmetals/aluminum, tconstruct:seared_bricks, forge:storage_blocks/knightmetal, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:relocation_not_supported, forge:storage_blocks/electrum, minecraft:infiniburn_overworld, minecraft:flower_pots, forge:storage_blocks/knightslime, minecraft:wooden_fences, forge:sheetmetals/constantan, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, tconstruct:anvil_metal, twilightforest:transwood_logs, forge:obsidian, forge:enderman_place_on_blacklist, forge:storage_blocks/fiery, forge:chests/electric, industrialforegoing:machine_frame/supreme, industrialforegoing:machine_frame/advanced, twilightforest:annihilation_inclusions, twilightforest:trophies, alexsmobs:kangaroo_spawns, forge:ores/tin, alexsmobs:seal_digables, twilightforest:ore_magnet/minecraft/end_stone, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/certus_quartz, alexsmobs:mimic_octopus_spawns, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, twilightforest:towerwood, forge:storage_blocks/constantan, minecraft:fire, mekanism:cardboard_blacklist, forge:sheetmetals/electrum, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, good_nights_sleep:ores/zitrite, forge:sand/colorless, minecraft:trapdoors, tconstruct:smeltery/floor, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, forge:ores/ironwood, tconstruct:harvestable/crops, twilightforest:fire_jet_fuel, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, forge:sheetmetals/copper, tconstruct:skyroot_logs, good_nights_sleep:ores/negatite, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:storage_blocks/lead, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:storage_blocks/silicon_bronze, forge:fences/aluminum, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, immersiveengineering:scaffoldings/steel, good_nights_sleep:logs/white_logs, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, forge:workbenches, minecraft:sand, forge:end_stones, good_nights_sleep:stone, forge:glass/brown, forge:sandstone/colorless, minecraft:logs_that_burn, forge:treated_wood, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:sheetmetals/uranium, minecraft:infiniburn_nether, tconstruct:fuel_tanks, forge:glass_panes/orange, forge:glass/light_gray, twilightforest:ore_magnet/minecraft/netherrack, appliedenergistics2:whitelisted/facades, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:asphalt, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:ores/knightmetal, forge:storage_blocks/redstone, sereneseasons:winter_crops, twilightforest:ore_magnet/minecraft/stone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, twilightforest:portal/decoration, tconstruct:bloodshroom_logs, minecraft:logs, forge:sandstone/red, tconstruct:tables, tconstruct:slimy_saplings, forge:treated_wood_slab, twilightforest:fence_gates, twilightforest:ore_magnet/ore_safe_replace_block, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, forge:ores/certus_quartz, betterdefaultbiomes:swamp_willow_logs, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, quark:vertical_slab, forge:storage_blocks/ironwood, good_nights_sleep:logs/dream_logs, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, appliedenergistics2:blacklisted/annihilation_plane, tconstruct:tree_log, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, twilightforest:darkwood_logs, twilightforest:ore_magnet/twilightforest/root, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, appliedenergistics2:spatial/blacklist, tconstruct:slimy_planks, forge:sand, minecraft:wall_corals, forge:sheetmetals/lead, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, good_nights_sleep:storage_blocks/candy, twilightforest:ore_magnet/block_replace_ore, good_nights_sleep:ores/positite, forge:storage_blocks/silver, minecraft:oak_logs, forge:ores/gold, minecraft:mushroom_stem, forge:storage_blocks/neptunium, forge:storage_blocks/hepatizon, good_nights_sleep:cobblestone, forge:barrels, minecraft:piglin_repellents, good_nights_sleep:mushrooms, twilightforest:fences, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:storage_blocks/aluminum, immersiveengineering:scaffoldings/aluminum, forge:ores/iron, twilightforest:logs, forge:storage_blocks/pig_iron, minecraft:pressure_plates, betterdefaultbiomes:palm_logs, forge:ores/nickel, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:storage_blocks/glowstone, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, forge:ores/aluminum, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, sereneseasons:spring_crops, tconstruct:foundry/wall, good_nights_sleep:ores/necrum, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, tconstruct:greenheart_logs, tconstruct:congealed_slime, twilightforest:carminite_reactor_immune, good_nights_sleep:storage_blocks/positite, twilightforest:portal/edge, good_nights_sleep:logs/blood_logs, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, alexsmobs:void_worm_breakables, minecraft:planks, good_nights_sleep:storage_blocks/rainbow, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, industrialforegoing:machine_frame/pity, forge:storage_blocks/gold, forge:storage_blocks/clay, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, create:brittle, tconstruct:alloyer_tanks, minecraft:tall_flowers, forge:sheetmetals/iron, forge:fences, forge:storage_blocks/petcoke, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, forge:sheetmetals/silver, forge:glass_panes/pink, tconstruct:smeltery, forge:chests/personal, forge:netherrack, forge:terracotta, forge:sapling, betterdefaultbiomes:mushrooms]
-[01:22:03] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:sheetmetals, quark:planks_vertical_slab, appliedenergistics2:spatial/whitelist, good_nights_sleep:ores/candy, twilightforest:twilight_oak_logs, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:storage_blocks/nickel, forge:glass/colorless, alexsmobs:roadrunner_spawns, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, twilightforest:timewood_logs, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, good_nights_sleep:storage_blocks/zitrite, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, forge:sheetmetals/nickel, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, twilightforest:structure_banned_interactions, forge:sheetmetals/steel, forge:fences/steel, forge:storage_blocks/coal_coke, good_nights_sleep:logs/dead_logs, forge:storage_blocks/iron, tconstruct:smeltery/tanks, forge:glass_panes/brown, good_nights_sleep:storage_blocks/necrum, minecraft:mushroom_hyphae, twilightforest:mangrove_logs, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, forge:storage_blocks/carminite, twilightforest:sortwood_logs, minecraft:dark_oak_logs, forge:storage_blocks/steel, tconstruct:scorched_blocks, twilightforest:portal/fluid, minecraft:coral_plants, forge:glass_panes, forge:storage_blocks/arctic_fur, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, forge:ores/fluorite, industrialforegoing:machine_frame/simple, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, good_nights_sleep:storage_blocks/negatite, alexsmobs:drops_bananas, good_nights_sleep:planks, twilightforest:canopy_logs, forge:storage_blocks/steeleaf, forge:storage_blocks/bronze, forge:storage_blocks/soulsteel, twilightforest:mining_logs, good_nights_sleep:ores/rainbow, twilightforest:antibuilder_ignores, forge:sheetmetals/gold, twilightforest:dark_tower_excluded_pots, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:sheetmetals/aluminum, tconstruct:seared_bricks, forge:storage_blocks/knightmetal, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:relocation_not_supported, forge:storage_blocks/electrum, minecraft:infiniburn_overworld, minecraft:flower_pots, forge:storage_blocks/knightslime, minecraft:wooden_fences, forge:sheetmetals/constantan, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, tconstruct:anvil_metal, twilightforest:transwood_logs, forge:obsidian, forge:enderman_place_on_blacklist, forge:storage_blocks/fiery, forge:chests/electric, industrialforegoing:machine_frame/supreme, industrialforegoing:machine_frame/advanced, twilightforest:annihilation_inclusions, twilightforest:trophies, alexsmobs:kangaroo_spawns, forge:ores/tin, alexsmobs:seal_digables, twilightforest:ore_magnet/minecraft/end_stone, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/certus_quartz, alexsmobs:mimic_octopus_spawns, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, twilightforest:towerwood, forge:storage_blocks/constantan, minecraft:fire, mekanism:cardboard_blacklist, forge:sheetmetals/electrum, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, good_nights_sleep:ores/zitrite, forge:sand/colorless, minecraft:trapdoors, tconstruct:smeltery/floor, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, forge:ores/ironwood, tconstruct:harvestable/crops, twilightforest:fire_jet_fuel, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, forge:sheetmetals/copper, tconstruct:skyroot_logs, good_nights_sleep:ores/negatite, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:storage_blocks/lead, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:storage_blocks/silicon_bronze, forge:fences/aluminum, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, immersiveengineering:scaffoldings/steel, good_nights_sleep:logs/white_logs, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, forge:workbenches, minecraft:sand, forge:end_stones, good_nights_sleep:stone, forge:glass/brown, forge:sandstone/colorless, minecraft:logs_that_burn, forge:treated_wood, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:sheetmetals/uranium, minecraft:infiniburn_nether, tconstruct:fuel_tanks, forge:glass_panes/orange, forge:glass/light_gray, twilightforest:ore_magnet/minecraft/netherrack, appliedenergistics2:whitelisted/facades, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:asphalt, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:ores/knightmetal, forge:storage_blocks/redstone, sereneseasons:winter_crops, twilightforest:ore_magnet/minecraft/stone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, twilightforest:portal/decoration, tconstruct:bloodshroom_logs, minecraft:logs, forge:sandstone/red, tconstruct:tables, tconstruct:slimy_saplings, forge:treated_wood_slab, twilightforest:fence_gates, twilightforest:ore_magnet/ore_safe_replace_block, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, forge:ores/certus_quartz, betterdefaultbiomes:swamp_willow_logs, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, quark:vertical_slab, forge:storage_blocks/ironwood, good_nights_sleep:logs/dream_logs, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, appliedenergistics2:blacklisted/annihilation_plane, tconstruct:tree_log, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, twilightforest:darkwood_logs, twilightforest:ore_magnet/twilightforest/root, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, appliedenergistics2:spatial/blacklist, tconstruct:slimy_planks, forge:sand, minecraft:wall_corals, forge:sheetmetals/lead, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, good_nights_sleep:storage_blocks/candy, twilightforest:ore_magnet/block_replace_ore, good_nights_sleep:ores/positite, forge:storage_blocks/silver, minecraft:oak_logs, forge:ores/gold, minecraft:mushroom_stem, forge:storage_blocks/neptunium, forge:storage_blocks/hepatizon, good_nights_sleep:cobblestone, forge:barrels, minecraft:piglin_repellents, good_nights_sleep:mushrooms, twilightforest:fences, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:storage_blocks/aluminum, immersiveengineering:scaffoldings/aluminum, forge:ores/iron, twilightforest:logs, forge:storage_blocks/pig_iron, minecraft:pressure_plates, betterdefaultbiomes:palm_logs, forge:ores/nickel, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:storage_blocks/glowstone, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, forge:ores/aluminum, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, sereneseasons:spring_crops, tconstruct:foundry/wall, good_nights_sleep:ores/necrum, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, tconstruct:greenheart_logs, tconstruct:congealed_slime, twilightforest:carminite_reactor_immune, good_nights_sleep:storage_blocks/positite, twilightforest:portal/edge, good_nights_sleep:logs/blood_logs, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, alexsmobs:void_worm_breakables, minecraft:planks, good_nights_sleep:storage_blocks/rainbow, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, industrialforegoing:machine_frame/pity, forge:storage_blocks/gold, forge:storage_blocks/clay, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, create:brittle, tconstruct:alloyer_tanks, minecraft:tall_flowers, forge:sheetmetals/iron, forge:fences, forge:storage_blocks/petcoke, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, forge:sheetmetals/silver, forge:glass_panes/pink, tconstruct:smeltery, forge:chests/personal, forge:netherrack, forge:terracotta, forge:sapling, betterdefaultbiomes:mushrooms]
-[01:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[01:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01:22:09] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01:22:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25,565
-[01:22:09] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[01:22:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:22:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01:22:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:22:09] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:22:09] [Server thread/INFO] [Minecraft/]: This server is running Mohist version 1.16.5-740 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT, Forge version 36.2.0)
-[01:22:11] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[01:22:11] [Server thread/INFO] [/]: Server Ping Player Sample Count: 12
-[01:22:11] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[01:22:12] [Server thread/INFO] [net.skinsrestorer.bukkit.SkinsRestorer/]: [SkinsRestorer] Loading SkinsRestorer v14.1.1
-[01:22:12] [Server thread/INFO] [/]: [minecraft:soul_fire_base_blocks, forge:glass_panes/magenta, forge:sheetmetals, quark:planks_vertical_slab, appliedenergistics2:spatial/whitelist, good_nights_sleep:ores/candy, twilightforest:twilight_oak_logs, forge:storage_blocks/netherite, forge:glass_panes/white, forge:gravel, forge:glass_panes/cyan, tconstruct:slimy_leaves, forge:glass_panes/light_gray, minecraft:wool, forge:storage_blocks/nickel, forge:glass/colorless, alexsmobs:roadrunner_spawns, tconstruct:harvestable/stackable, forge:glass_panes/light_blue, minecraft:beehives, twilightforest:timewood_logs, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, alexsmobs:alligator_snapping_turtle_spawns, forge:stained_glass, forge:glass/pink, forge:chests, good_nights_sleep:storage_blocks/zitrite, forge:storage_blocks/emerald, forge:ores/redstone, tconstruct:harvestable, tconstruct:foundry/floor, forge:storage_blocks/uranium, forge:sheetmetals/nickel, tconstruct:foundry/tanks, minecraft:warped_stems, forge:glass/red, twilightforest:structure_banned_interactions, forge:sheetmetals/steel, forge:fences/steel, forge:storage_blocks/coal_coke, good_nights_sleep:logs/dead_logs, forge:storage_blocks/iron, tconstruct:smeltery/tanks, forge:glass_panes/brown, good_nights_sleep:storage_blocks/necrum, minecraft:mushroom_hyphae, twilightforest:mangrove_logs, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:climbable, forge:chests/trapped, forge:fence_gates, forge:storage_blocks/carminite, twilightforest:sortwood_logs, minecraft:dark_oak_logs, forge:storage_blocks/steel, tconstruct:scorched_blocks, twilightforest:portal/fluid, minecraft:coral_plants, forge:glass_panes, forge:storage_blocks/arctic_fur, minecraft:non_flammable_wood, forge:sandstone, ceramics:cistern_connections, forge:storage_blocks/copper, forge:glass_panes/colorless, forge:ores/fluorite, industrialforegoing:machine_frame/simple, forge:storage_blocks/refined_glowstone, tconstruct:seared_blocks, good_nights_sleep:storage_blocks/negatite, alexsmobs:drops_bananas, good_nights_sleep:planks, twilightforest:canopy_logs, forge:storage_blocks/steeleaf, forge:storage_blocks/bronze, forge:storage_blocks/soulsteel, twilightforest:mining_logs, good_nights_sleep:ores/rainbow, twilightforest:antibuilder_ignores, forge:sheetmetals/gold, twilightforest:dark_tower_excluded_pots, minecraft:fences, minecraft:saplings, forge:storage_blocks/tin, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:sheetmetals/aluminum, tconstruct:seared_bricks, forge:storage_blocks/knightmetal, forge:ores/diamond, minecraft:unstable_bottom_center, forge:ores/lead, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:relocation_not_supported, forge:storage_blocks/electrum, minecraft:infiniburn_overworld, minecraft:flower_pots, forge:storage_blocks/knightslime, minecraft:wooden_fences, forge:sheetmetals/constantan, alexsmobs:rattlesnake_spawns, minecraft:wall_post_override, tconstruct:anvil_metal, twilightforest:transwood_logs, forge:obsidian, forge:enderman_place_on_blacklist, forge:storage_blocks/fiery, forge:chests/electric, industrialforegoing:machine_frame/supreme, industrialforegoing:machine_frame/advanced, twilightforest:annihilation_inclusions, twilightforest:trophies, alexsmobs:kangaroo_spawns, forge:ores/tin, alexsmobs:seal_digables, twilightforest:ore_magnet/minecraft/end_stone, forge:glass/white, forge:glass_panes/red, minecraft:signs, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:storage_blocks/certus_quartz, alexsmobs:mimic_octopus_spawns, forge:storage_blocks/osmium, forge:ores/coal, minecraft:hoglin_repellents, twilightforest:towerwood, forge:storage_blocks/constantan, minecraft:fire, mekanism:cardboard_blacklist, forge:sheetmetals/electrum, minecraft:base_stone_nether, minecraft:wall_signs, tconstruct:seared_tanks, carryon:block_whitelist, alexsmobs:drops_acacia_blossoms, good_nights_sleep:ores/zitrite, forge:sand/colorless, minecraft:trapdoors, tconstruct:smeltery/floor, alexsmobs:komodo_dragon_spawns, forge:glass/cyan, alexsmobs:crow_fears, alexsmobs:mantis_shrimp_spawns, forge:glass, forge:ores/ironwood, tconstruct:harvestable/crops, twilightforest:fire_jet_fuel, minecraft:soul_speed_blocks, forge:storage_blocks/charcoal, forge:sheetmetals/copper, tconstruct:skyroot_logs, good_nights_sleep:ores/negatite, alexsmobs:lobster_spawns, minecraft:leaves, minecraft:walls, tconstruct:slimy_logs, minecraft:coral_blocks, tconstruct:slimy_grass, forge:storage_blocks/rose_gold, forge:glass/green, alexsmobs:cachalot_whale_breakables, forge:storage_blocks/lead, forge:glass_panes/gray, minecraft:wither_immune, minecraft:acacia_logs, forge:storage_blocks/silicon_bronze, forge:fences/aluminum, tconstruct:slimy_tree_trunks, forge:stained_glass_panes, immersiveengineering:scaffoldings/steel, good_nights_sleep:logs/white_logs, minecraft:underwater_bonemeals, forge:storage_blocks/queens_slime, forge:sand/red, minecraft:impermeable, alexsmobs:emu_spawns, forge:workbenches, minecraft:sand, forge:end_stones, good_nights_sleep:stone, forge:glass/brown, forge:sandstone/colorless, minecraft:logs_that_burn, forge:treated_wood, forge:fences/wooden, sereneseasons:summer_crops, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:sheetmetals/uranium, minecraft:infiniburn_nether, tconstruct:fuel_tanks, forge:glass_panes/orange, forge:glass/light_gray, twilightforest:ore_magnet/minecraft/netherrack, appliedenergistics2:whitelisted/facades, forge:ores/quartz, forge:ores/cobalt, minecraft:wooden_slabs, forge:asphalt, alexsmobs:platypus_spawns, forge:glass/blue, minecraft:small_flowers, forge:storage_blocks/refined_obsidian, mekanism:atomic_disassembler_ore, minecraft:wooden_trapdoors, forge:ores/osmium, forge:storage_blocks/coal, forge:glass_panes/black, forge:glass/light_blue, forge:ores/knightmetal, forge:storage_blocks/redstone, sereneseasons:winter_crops, twilightforest:ore_magnet/minecraft/stone, alexsmobs:grizzly_beehive, forge:glass_panes/blue, minecraft:stairs, twilightforest:portal/decoration, tconstruct:bloodshroom_logs, minecraft:logs, forge:sandstone/red, tconstruct:tables, tconstruct:slimy_saplings, forge:treated_wood_slab, twilightforest:fence_gates, twilightforest:ore_magnet/ore_safe_replace_block, forge:stone, alexsmobs:crocodile_spawns, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, forge:ores/certus_quartz, betterdefaultbiomes:swamp_willow_logs, minecraft:standing_signs, minecraft:infiniburn_end, forge:glass_panes/yellow, sereneseasons:autumn_crops, forge:glass/purple, minecraft:crimson_stems, alexsmobs:soul_vulture_spawns, quark:vertical_slab, forge:storage_blocks/ironwood, good_nights_sleep:logs/dream_logs, minecraft:wart_blocks, alexsmobs:leafcutter_ant_breakables, alexsmobs:gorilla_breakables, appliedenergistics2:blacklisted/annihilation_plane, tconstruct:tree_log, tconstruct:slime_block, minecraft:beacon_base_blocks, tconstruct:scorched_tanks, alexsmobs:orca_breakables, alexsmobs:seal_spawns, minecraft:shulker_boxes, alexsmobs:mungus_replace_mushroom, twilightforest:darkwood_logs, twilightforest:ore_magnet/twilightforest/root, minecraft:anvil, forge:ores/silver, minecraft:birch_logs, appliedenergistics2:spatial/blacklist, tconstruct:slimy_planks, forge:sand, minecraft:wall_corals, forge:sheetmetals/lead, forge:glass_panes/purple, forge:glass/yellow, alexsmobs:elephant_foodblocks, good_nights_sleep:storage_blocks/candy, twilightforest:ore_magnet/block_replace_ore, good_nights_sleep:ores/positite, forge:storage_blocks/silver, minecraft:oak_logs, forge:ores/gold, minecraft:mushroom_stem, forge:storage_blocks/neptunium, forge:storage_blocks/hepatizon, good_nights_sleep:cobblestone, forge:barrels, minecraft:piglin_repellents, good_nights_sleep:mushrooms, twilightforest:fences, forge:ores/lapis, forge:glass/black, minecraft:portals, alexsmobs:mungus_replace_nether, forge:storage_blocks/slimesteel, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:storage_blocks/aluminum, immersiveengineering:scaffoldings/aluminum, forge:ores/iron, twilightforest:logs, forge:storage_blocks/pig_iron, minecraft:pressure_plates, betterdefaultbiomes:palm_logs, forge:ores/nickel, minecraft:jungle_logs, forge:chests/ender, minecraft:wooden_stairs, minecraft:spruce_logs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, alexsmobs:crow_foodblocks, forge:storage_blocks/glowstone, forge:fence_gates/wooden, minecraft:stone_bricks, forge:storage_blocks/quartz, forge:ores/aluminum, forge:ores/uranium, forge:glass/orange, forge:glass_panes/lime, forge:storage_blocks/manyullyn, sereneseasons:spring_crops, tconstruct:foundry/wall, good_nights_sleep:ores/necrum, tconstruct:smeltery/wall, minecraft:slabs, minecraft:guarded_by_piglins, forge:ores/emerald, tconstruct:greenheart_logs, tconstruct:congealed_slime, twilightforest:carminite_reactor_immune, good_nights_sleep:storage_blocks/positite, twilightforest:portal/edge, good_nights_sleep:logs/blood_logs, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:storage_blocks/cobalt, alexsmobs:void_worm_breakables, minecraft:planks, good_nights_sleep:storage_blocks/rainbow, forge:cobblestone, minecraft:rails, forge:barrels/wooden, tconstruct:harvestable/interact, alexsmobs:soul_vulture_perches, minecraft:strider_warm_blocks, industrialforegoing:machine_frame/pity, forge:storage_blocks/gold, forge:storage_blocks/clay, minecraft:fence_gates, tconstruct:foundry, forge:ores, minecraft:bee_growables, minecraft:wooden_pressure_plates, create:brittle, tconstruct:alloyer_tanks, minecraft:tall_flowers, forge:sheetmetals/iron, forge:fences, forge:storage_blocks/petcoke, minecraft:stone_pressure_plates, forge:storage_blocks/diamond, minecraft:nylium, alexsmobs:warped_mosco_breakables, minecraft:gold_ores, forge:sheetmetals/silver, forge:glass_panes/pink, tconstruct:smeltery, forge:chests/personal, forge:netherrack, forge:terracotta, forge:sapling, betterdefaultbiomes:mushrooms]
-[01:22:12] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
-[01:22:12] [Server thread/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
-[01:22:12] [Thread-0/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
-[01:22:12] [Thread-0/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
-[01:22:12] [Thread-0/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Portable Generator Fuel. (256RF/t 5mB/t)
-[01:22:12] [Thread-0/INFO] [immersivepetroleum/FuelHandler/]: Added immersivepetroleum:gasoline as Motorboat Fuel. (1 mB/t)
-[01:22:12] [Server thread/INFO] [betterdefaultbiomes/]: Added Wandering Trader Trades
-[01:22:12] [Server thread/INFO] [betterdefaultbiomes/]: Added Fletcher Villager Trades
-[01:22:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "oscara"
-[01:22:13] [Server thread/INFO] [net.skinsrestorer.bukkit.SkinsRestorer/]: [SkinsRestorer] Enabling SkinsRestorer v14.1.1
-[01:22:13] [Server thread/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mUsing SpigotSkinRefresher[m
-[01:22:13] [Server thread/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1mDetected Minecraft [0;33;1mv1_16_R3[0;32;1m, using [0;33;1mSkinApplierBukkit[0;32;1m.[m
-[01:22:13] [Server thread/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [mMineskinAPIKey is missing in config.yml! Using default value.[m
-[01:22:13] [Server thread/INFO] [SkinsRestorer/]: [ACF] Enabled Asynchronous Tab Completion Support!
-[01:22:17] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[01:22:17] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01:22:23] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[01:22:27] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
-[01:22:31] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 84%
-[01:22:31] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 86%
-[01:22:32] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 89%
-[01:22:32] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 93%
-[01:22:33] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[01:22:33] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 16,230 ms
-[01:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.878s)! For help, type "help"
-[01:22:33] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server starting...
-[01:22:33] [Server thread/INFO] [Minecraft/]: Timings Reset
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    +===============+[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    | SkinsRestorer |[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    |---------------|[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    |  [0;34;1m[4m[21mBukkit only[0;32;1m  |[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    +===============+[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;36;1m    Current version: [0;32;1m14.1.1[m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m    This is the latest version![m
-[01:22:34] [Craft Scheduler Thread - 3/INFO] [/]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [m[0;32;1m----------------------------------------------[m
-[01:22:47] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player LukeOliBR is b298c644-d81e-395f-a054-c03465f0a34b
-[01:22:47] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:22:52] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@281fd0a7
-[01:22:52] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: LukeOliBR[/187.17.41.48:32476] logged in with entity id 76 at (-108.5, 64, 184.5)
-[01:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Vanilla Jetpacks]
-[01:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Immersive Engineering Jetpacks]
-[01:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Mekanism Jetpacks]
-[01:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has completed the challenge [Simply Jetpacks 2]
-[01:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Better Default Biomes]
-[01:24:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR issued server command: /skins
-[01:25:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Crocodile
-[01:28:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR fell from a high place
-[01:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR fell from a high place
-[01:30:14] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tomate_Plays is 42a9c1bf-46e6-3122-bfc0-f25a91b4990d
-[01:30:14] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:30:24] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f33216d
-[01:30:24] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tomate_Plays[/187.2.104.235:54589] logged in with entity id 2,107 at (-116.5, 82, 191.5)
-[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Vanilla Jetpacks]
-[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Immersive Engineering Jetpacks]
-[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Mekanism Jetpacks]
-[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has completed the challenge [Simply Jetpacks 2]
-[01:30:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Better Default Biomes]
-[01:30:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays issued server command: /skin
-[01:30:55] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays issued server command: /skins
-[01:34:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR fell from a high place
-[01:35:26] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-130, y=77, z=210} BlockPos{x=-118, y=72, z=190}
-[01:35:26] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-130, y=77, z=210} BlockPos{x=-118, y=71, z=190}
-[01:35:27] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-130, y=77, z=210} BlockPos{x=-118, y=69, z=189}
-[01:36:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Stone Age]
-[01:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Simple Farming]
-[01:37:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Monster Hunter]
-[01:37:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was shot by Skeleton
-[01:37:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Monster Hunter]
-[01:37:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Stone Age]
-[01:38:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Getting an Upgrade]
-[01:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Getting an Upgrade]
-[01:38:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Alex's Mobs]
-[01:39:16] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[01:39:16] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:39:25] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@414ff277
-[01:39:25] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2912] logged in with entity id 3,545 at (-114.5, 81, 191.5)
-[01:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Vanilla Jetpacks]
-[01:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Immersive Engineering Jetpacks]
-[01:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Mekanism Jetpacks]
-[01:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has completed the challenge [Simply Jetpacks 2]
-[01:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Better Default Biomes]
-[01:40:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was blown up by Creeper
-[01:41:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Alex's Mobs]
-[01:41:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Simple Farming]
-[01:41:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Zombie
-[01:41:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was slain by Zombie
-[01:46:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [This is new]
-[01:47:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [A Seedy Place]
-[01:47:31] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Masterptk is 1a9b61ea-e986-3a56-b4f3-0487211abef5
-[01:47:31] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:47:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [A Seedy Place]
-[01:47:38] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2fe5a07e
-[01:47:38] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Masterptk[/201.75.170.138:17917] logged in with entity id 4,830 at (-103.5, 64, 182.5)
-[01:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Vanilla Jetpacks]
-[01:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Immersive Engineering Jetpacks]
-[01:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Mekanism Jetpacks]
-[01:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has completed the challenge [Simply Jetpacks 2]
-[01:47:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Better Default Biomes]
-[01:49:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Simple Farming]
-[01:49:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Simple Farming]
-[01:50:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Stone Age]
-[01:50:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Getting an Upgrade]
-[01:50:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Stone Age]
-[01:51:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Getting an Upgrade]
-[01:52:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Crocodile
-[01:54:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Crocodile
-[01:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was shot by Desert Bandit Archer using [Bandit's Bow]
-[01:54:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [This is new]
-[01:54:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Desert Bandit using [Bandit's Sword]
-[01:54:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Acquire Hardware]
-[01:55:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays issued server command: /tp @s -79 66 195
-[01:55:37] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-117, y=59, z=165} BlockPos{x=-119, y=50, z=179}
-[01:55:39] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-117, y=59, z=165} BlockPos{x=-121, y=50, z=177}
-[01:55:39] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-117, y=59, z=165} BlockPos{x=-120, y=50, z=177}
-[01:55:43] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-121, y=49, z=175} BlockPos{x=-121, y=50, z=176}
-[01:56:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Monster Hunter]
-[01:56:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Zombie
-[01:56:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Zombie
-[01:57:36] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-96, y=63, z=160} BlockPos{x=-122, y=50, z=176}
-[02:00:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was slain by Tomate_Plays
-[02:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was killed by Witch using magic
-[02:01:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Acquire Hardware]
-[02:01:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was slain by Masterptk
-[02:05:22] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
-[02:05:22] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[02:05:29] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7f84d322
-[02:05:29] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:50936] logged in with entity id 9,373 at (-106.5, 75, 196.5)
-[02:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Vanilla Jetpacks]
-[02:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Immersive Engineering Jetpacks]
-[02:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Mekanism Jetpacks]
-[02:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has completed the challenge [Simply Jetpacks 2]
-[02:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Better Default Biomes]
-[02:06:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Alex's Mobs]
-[02:06:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Simple Farming]
-[02:07:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [A Seedy Place]
-[02:08:09] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=11, y=66, z=132} BlockPos{x=14, y=65, z=133}
-[02:08:09] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=11, y=66, z=132} BlockPos{x=14, y=65, z=133}
-[02:08:53] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=7, y=66, z=67} BlockPos{x=7, y=64, z=65}
-[02:10:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [A Seedy Place]
-[02:12:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Sweet Dreams]
-[02:12:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Sweet Dreams]
-[02:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Sweet Dreams]
-[02:12:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Sweet Dreams]
-[02:13:11] [Async Chat Thread - 2/INFO] [/]: <Masterptk> Masterptk[m
-[02:13:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Sweet Dreams]
-[02:13:25] [Async Chat Thread - 2/INFO] [/]: <Tomate_Plays> Tomate_Plays[m
-[02:13:44] [Async Chat Thread - 2/INFO] [/]: <LukeOliBR> Ednaldo Pereira[m
-[02:14:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Shocking]
-[02:14:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Stone Age]
-[02:15:37] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-85, y=62, z=189} BlockPos{x=-118, y=56, z=185}
-[02:15:40] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-85, y=62, z=189} BlockPos{x=-116, y=56, z=185}
-[02:15:41] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-85, y=62, z=189} BlockPos{x=-115, y=56, z=184}
-[02:15:41] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-85, y=62, z=189} BlockPos{x=-116, y=56, z=185}
-[02:16:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Getting an Upgrade]
-[02:18:29] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-61, y=64, z=167} BlockPos{x=-62, y=65, z=168}
-[02:18:29] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-61, y=64, z=167} BlockPos{x=-62, y=65, z=168}
-[02:18:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Shocking]
-[02:18:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [The Parrots and the Bats]
-[02:19:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Acquire Hardware]
-[02:19:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Acquire Hardware]
-[02:20:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Acquire Hardware]
-[02:20:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Isn't It Iron Pick]
-[02:20:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Isn't It Iron Pick]
-[02:20:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Isn't It Iron Pick]
-[02:20:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was shot by Skeleton
-[02:20:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Monster Hunter]
-[02:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Isn't It Iron Pick]
-[02:21:40] [Async Chat Thread - 3/INFO] [/]: <Tomate_Plays> -106 236[m
-[02:21:42] [Async Chat Thread - 3/INFO] [/]: <Tomate_Plays> 14[m
-[02:21:52] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-107, y=58, z=154} BlockPos{x=-119, y=57, z=185}
-[02:22:15] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-107, y=58, z=154} BlockPos{x=-115, y=61, z=188}
-[02:23:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Berry Good!]
-[02:24:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [The Parrots and the Bats]
-[02:25:23] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 issued server command: /skinsrestorer:skins
-[02:25:50] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 issued server command: /skins
-[02:26:12] [Async Chat Thread - 4/INFO] [/]: <Tomate_Plays> DURMA[m
-[02:27:52] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk lost connection: Disconnected
-[02:27:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk left the game
-[02:28:15] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR lost connection: Disconnected
-[02:28:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR left the game
-[02:28:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
-[02:28:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
-[02:28:32] [Async Chat Thread - 5/INFO] [/]: <Tomate_Plays> hmmm sonim baum[m
-[02:28:51] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player LukeOliBR is b298c644-d81e-395f-a054-c03465f0a34b
-[02:28:51] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[02:28:52] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
-[02:28:52] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[02:28:56] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20c78a53
-[02:28:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: LukeOliBR[/187.17.41.48:56902] logged in with entity id 32,111 at (-85.7, 62, 190.876)
-[02:28:58] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1f573a1a
-[02:28:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:56326] logged in with entity id 32,121 at (-87.789, 60, 189.476)
-[02:31:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Fishy Business]
-[02:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
-[02:33:13] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[02:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[02:33:54] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[02:33:55] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[02:34:05] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@14120650
-[02:34:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:3049] logged in with entity id 33,551 at (16.909, 46, 355.472)
-[02:36:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Shocking]
-[02:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Chompy]
-[02:36:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
-[02:36:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Diamonds!]
-[02:37:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
-[02:38:35] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[02:38:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[02:40:51] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[02:40:51] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[02:41:08] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2d826447
-[02:41:08] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2932] logged in with entity id 35,300 at (-97.185, 69, 339.923)
-[02:41:39] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-95, y=52, z=189} BlockPos{x=-96, y=53, z=189}
-[02:41:46] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-95, y=51, z=189} BlockPos{x=-96, y=51, z=189}
-[02:42:24] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-94, y=48, z=195} BlockPos{x=-96, y=48, z=193}
-[02:42:27] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-94, y=48, z=195} BlockPos{x=-96, y=49, z=193}
-[02:42:31] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[02:42:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[02:50:09] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[02:50:09] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[02:50:18] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3fa30ab4
-[02:50:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2867] logged in with entity id 37,139 at (-97.185, 69, 339.923)
-[02:53:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [We do a little trolling...]
-[02:53:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was slain by Elephant
-[02:56:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Eye of The Storm]
-[02:57:36] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow moved too quickly! -1.893,2.667,9.599
-[02:59:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Eye of The Storm]
-[03:02:28] [Async Chat Thread - 6/INFO] [/]: <Tomate_Plays> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz[m
-[03:02:30] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:30] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:30] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:31] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:31] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:31] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:31] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:31] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:32] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:32] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:32] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:32] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:32] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> z[m
-[03:02:32] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Kicked for spamming
-[03:02:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[03:02:34] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR lost connection: Disconnected
-[03:02:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR left the game
-[03:02:45] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player LukeOliBR is b298c644-d81e-395f-a054-c03465f0a34b
-[03:02:45] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[03:02:49] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7811a110
-[03:02:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: LukeOliBR[/187.17.41.48:57020] logged in with entity id 42,437 at (-77.327, 64, 194.846)
-[03:02:50] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[03:02:50] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[03:02:58] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@5c0f02af
-[03:02:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2767] logged in with entity id 42,511 at (-78.5, 56, 330.5)
-[03:04:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Isn't It Iron Pick]
-[03:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was blown up by Creeper
-[03:07:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
-[03:08:07] [Async Chat Thread - 7/INFO] [/]: <Tomate_Plays> 4 840[m
-[03:08:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
-[03:11:06] [Async Chat Thread - 8/INFO] [/]: <Cadu1107> t[m
-[03:12:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Berry Good!]
-[03:14:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Diamonds!]
-[03:15:53] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-73, y=63, z=197} BlockPos{x=-96, y=44, z=197}
-[03:22:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was blown up by Creeper
-[03:24:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays tried to swim in lava
-[03:26:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was shot by Skeleton
-[03:27:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Take Aim]
-[03:39:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Shocking]
-[03:46:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was blown up by Creeper
-[03:52:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Hot Stuff]
-[03:56:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Hot Stuff]
-[04:02:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Ice Bucket Challenge]
-[04:02:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was blown up by Creeper
-[04:05:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Diamonds!]
-[04:05:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was blown up by Creeper
-[04:07:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Shocking]
-[04:13:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was shot by Skeleton
-[04:15:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[04:24:20] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[04:24:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[04:31:47] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[04:31:47] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[04:31:56] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@616eaceb
-[04:31:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2669] logged in with entity id 82,928 at (18.513, 42, 406.292)
-[04:37:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Eye of The Storm]
-[04:37:35] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR moved too quickly! -0.046,0.2,-11.77
-[04:41:29] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR lost connection: Disconnected
-[04:41:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR left the game
-[04:44:01] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
-[04:44:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
-[04:44:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [A Seedy Place]
-[04:53:45] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays lost connection: Disconnected
-[04:53:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays left the game
-[04:53:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Disconnected
-[04:53:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[08:14:31] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server stopping...
-[08:14:31] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-[08:14:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[08:14:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[08:14:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[08:14:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[oscara]'/minecraft:overworld
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (oscara): All chunks are saved
-[08:14:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:14:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:14:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[good_dream]'/good_nights_sleep:good_dream
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (good_dream): All chunks are saved
-[08:14:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[twilightforest]'/twilightforest:twilightforest
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
-[08:14:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[nightmare]'/good_nights_sleep:nightmare
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
-[08:14:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[skylight_forest]'/twilightforest:skylight_forest
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
-[08:14:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[spatial_storage]'/appliedenergistics2:spatial_storage
-[08:14:32] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[00:00:52] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
+[00:00:52] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[00:01:03] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3fef1ec7
+[00:01:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:57683] logged in with entity id 5,491 at (-82.263, 62.562, 192.976)
+[00:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Pic-A-Nic Basket?]
+[00:12:41] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[00:12:41] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[00:12:49] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4ca863a6
+[00:12:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2816] logged in with entity id 10,885 at (29.377, 45, 365.753)
+[00:13:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
+[00:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[00:20:07] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[00:20:07] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[00:20:15] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e82590
+[00:20:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2649] logged in with entity id 13,592 at (29.377, 45, 365.753)
+[00:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Wheat]
+[00:25:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [This is new]
+[00:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was slain by Cave Spider
+[00:28:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
+[00:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
+[00:30:36] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Adolpho2 is 8a7544f7-d073-35c9-85b6-f93a03a9d1fe
+[00:30:37] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[00:30:44] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@aa561c4
+[00:30:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Adolpho2[/177.183.30.96:52163] logged in with entity id 19,342 at (-107.5, 64, 185.5)
+[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Vanilla Jetpacks]
+[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Immersive Engineering Jetpacks]
+[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Mekanism Jetpacks]
+[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has completed the challenge [Simply Jetpacks 2]
+[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Better Default Biomes]
+[00:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Alex's Mobs]
+[00:36:06] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Masterptk is 1a9b61ea-e986-3a56-b4f3-0487211abef5
+[00:36:06] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[00:36:13] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@52791e56
+[00:36:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Masterptk[/201.75.170.138:16777] logged in with entity id 21,549 at (-81.684, 62, 191.41)
+[00:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Stone Age]
+[00:37:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Simple Farming]
+[00:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Acquire Hardware]
+[00:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Monster Hunter]
+[00:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was blown up by Creeper
+[00:39:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was slain by Zombie
+[00:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Isn't It Iron Pick]
+[00:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Monster Hunter]
+[00:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was blown up by Creeper
+[00:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Berry Good!]
+[00:44:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Disconnected
+[00:44:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[00:44:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Eye of The Storm]
+[00:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [This is new]
+[00:46:12] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-53, y=64, z=156} BlockPos{x=-98, y=72, z=198}
+[00:50:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[00:51:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[00:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Ice Bucket Challenge]
+[00:55:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Suit Up]
+[00:55:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Suit Up]
+[00:56:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Suit Up]
+[00:57:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [We Need to Go Deeper]
+[00:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [We Need to Go Deeper]
+[00:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [We Need to Go Deeper]
+[00:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Nightmare Fuel]
+[01:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[01:00:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Nightmare Fuel]
+[01:01:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Suit Up]
+[01:01:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [We Need to Go Deeper]
+[01:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Nightmare Fuel]
+[01:03:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[01:04:26] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
+[01:04:26] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[01:04:31] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@109ca6cb
+[01:04:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:57684] logged in with entity id 35,385 at (-111.83, 58, 156.51)
+[01:05:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays fell from a high place
+[01:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Oh Shiny]
+[01:08:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Hoglin
+[01:09:38] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-83, y=62, z=189} BlockPos{x=-115, y=71, z=204}
+[01:09:38] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-83, y=62, z=189} BlockPos{x=-115, y=72, z=206}
+[01:09:47] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[01:09:47] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[01:09:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Crimson Mosquito
+[01:09:55] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20605219
+[01:09:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2875] logged in with entity id 37,274 at (-73.894, 56, 332.708)
+[01:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has reached the goal [Blood Island]
+[01:11:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
+[01:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[01:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Those Were the Days]
+[01:11:57] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[01:11:57] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[01:12:05] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49a1713e
+[01:12:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2876] logged in with entity id 39,117 at (-75.926, 56, 332.151)
+[01:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Nightmare Fuel]
+[01:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [War Pigs]
+[01:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Those Were the Days]
+[01:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Crimson Mosquito
+[01:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[01:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Piglin
+[01:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Diamonds!]
+[01:20:06] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays moved too quickly! -7.82,2.88,8.268
+[01:20:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk lost connection: Disconnected
+[01:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk left the game
+[01:21:11] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Masterptk is 1a9b61ea-e986-3a56-b4f3-0487211abef5
+[01:21:11] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[01:21:18] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f30eefd
+[01:21:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Masterptk[/201.75.170.138:16786] logged in with entity id 47,977 at (17.769, 79, 94.912)
+[01:21:27] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -0.232,0,-11.524
+[01:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[01:23:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk hit the ground too hard
+[01:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[01:25:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays moved too quickly! -13.083,2.166,-6.029
+[01:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Zombified Piglin
+[01:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Suit Up]
+[01:29:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Those Were the Days]
+[01:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR burned to death
+[01:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk burned to death
+[01:31:09] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-174, y=63, z=116} BlockPos{x=-174, y=62, z=116}
+[01:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Piglin
+[01:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk tried to swim in lava
+[01:34:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Crimson Mosquito
+[01:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Sweet Dreams]
+[01:35:26] [Async Chat Thread - 2/INFO] [/]: <Tomate_Plays> amimir[m
+[01:35:32] [Async Chat Thread - 2/INFO] [/]: <SprainedBow> fdp[m
+[01:35:36] [Async Chat Thread - 2/INFO] [/]: <SprainedBow> cm q faz o robo[m
+[01:35:39] [Async Chat Thread - 2/INFO] [/]: <SprainedBow> poha[m
+[01:36:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[01:37:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Chompy]
+[01:37:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Crocodile
+[01:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
+[01:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Chompy]
+[01:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was slain by Crocodile
+[01:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Crocodile
+[01:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
+[01:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Shocking]
+[01:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
+[01:43:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays issued server command: /w LukeOliBR bó fzr algum trouxa dormir nas strange bad
+[01:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Rainbows and Unicorns!]
+[01:43:42] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -4.717,1.169,-8.882
+[01:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [A Night of Torment]
+[01:43:48] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -2.566,2.252,-10.462
+[01:44:31] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR moved too quickly! -0.055,-0.271,-10.033
+[01:45:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Take Aim]
+[01:45:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR lost connection: Timed out
+[01:45:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR left the game
+[01:45:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Elephant
+[01:47:18] [Async Chat Thread - 3/INFO] [/]: <Cadu1107> hmmmmmmmmmmmmm[m
+[01:48:32] [Async Chat Thread - 4/INFO] [/]: <SprainedBow> a[m
+[01:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Rainbows and Unicorns!]
+[01:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [A Night of Torment]
+[01:48:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Rainbows and Unicorns!]
+[01:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [A Night of Torment]
+[01:50:06] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 moved too quickly! 6.988,0,-7.294
+[01:58:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Face your Fears]
+[02:00:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -6.116,-1.232,8.404
+[02:00:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays moved too quickly! 5.048,0.055,-12.121
+[02:00:24] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk was kicked for floating too long!
+[02:00:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk lost connection: Flying is not enabled on this server
+[02:00:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk left the game
+[02:00:36] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Masterptk is 1a9b61ea-e986-3a56-b4f3-0487211abef5
+[02:00:36] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[02:00:47] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6520286
+[02:00:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Masterptk[/201.75.170.138:16723] logged in with entity id 66,924 at (-52.388, 69, 216.144)
+[02:00:47] [Server thread/WARN] [/]: net.skinsrestorer.shared.exception.ReflectionException: java.lang.NoSuchMethodException: net.minecraft.network.play.server.SRespawnPacket.<init>(com.legacy.goodnightsleep.registry.GNSDimensions$1, net.minecraft.util.RegistryKey, long, net.minecraft.world.GameType, net.minecraft.world.GameType, boolean, boolean, boolean)
+[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.shared.utils.ReflectionUtil.invokeConstructor(ReflectionUtil.java:214)
+[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.bukkit.skinapplier.SpigotSkinRefresher.accept(SpigotSkinRefresher.java:176)
+[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.bukkit.skinapplier.SpigotSkinRefresher.accept(SpigotSkinRefresher.java:38)
+[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.bukkit.SkinApplierBukkit.lambda$updateSkin$4(SkinApplierBukkit.java:168)
+[02:00:47] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:97)
+[02:00:47] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:462)
+[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:999)
+[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
+[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:945)
+[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:760)
+[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:270)
+[02:00:47] [Server thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Unknown Source)
+[02:00:47] [Server thread/WARN] [/]: Caused by: java.lang.NoSuchMethodException: net.minecraft.network.play.server.SRespawnPacket.<init>(com.legacy.goodnightsleep.registry.GNSDimensions$1, net.minecraft.util.RegistryKey, long, net.minecraft.world.GameType, net.minecraft.world.GameType, boolean, boolean, boolean)
+[02:00:47] [Server thread/WARN] [/]: 	at java.base/java.lang.Class.getConstructor0(Unknown Source)
+[02:00:47] [Server thread/WARN] [/]: 	at java.base/java.lang.Class.getConstructor(Unknown Source)
+[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.shared.utils.ReflectionUtil.getConstructor(ReflectionUtil.java:71)
+[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.shared.utils.ReflectionUtil.invokeConstructor(ReflectionUtil.java:212)
+[02:00:47] [Server thread/WARN] [/]: 	... 11 more
+[02:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Zombie
+[02:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Rainbows and Unicorns!]
+[02:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Hot Stuff]
+[02:09:37] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -314.15,-1.797,377.169
+[02:09:40] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk moved too quickly! -64.346,-4,20.582
+[02:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Prismatic!]
+[02:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Prismatic!]
+[02:15:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Suit Up]
+[02:17:23] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-116, y=64, z=27} BlockPos{x=-117, y=62, z=29}
+[02:17:23] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-116, y=64, z=27} BlockPos{x=-117, y=62, z=29}
+[02:17:23] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-116, y=64, z=27} BlockPos{x=-117, y=62, z=29}
+[02:17:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk lost connection: Disconnected
+[02:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk left the game
+[02:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Crocodile
+[02:39:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 issued server command: /tp @s -156 62 -140
+[02:51:52] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-95, y=39, z=208} BlockPos{x=-96, y=39, z=208}
+[02:52:02] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-96, y=40, z=209} BlockPos{x=-96, y=38, z=208}
+[02:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Unknown Technology]
+[02:57:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 suffocated in a wall
+[03:01:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 lost connection: Disconnected
+[03:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 left the game
+[03:01:49] [Async Chat Thread - 5/INFO] [/]: <Cadu1107> hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm sonin baum[m
+[03:02:07] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Adolpho2 is 8a7544f7-d073-35c9-85b6-f93a03a9d1fe
+[03:02:07] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[03:02:13] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7868b081
+[03:02:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Adolpho2[/177.183.30.96:52444] logged in with entity id 92,372 at (-85.395, 68, 105.694)
+[03:02:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
+[03:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[03:03:39] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[03:03:39] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[03:03:54] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1df6ba09
+[03:03:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2880] logged in with entity id 92,757 at (-75.218, 56, 333.221)
+[03:04:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
+[03:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[03:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [The End of the Rainbow]
+[03:16:32] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[03:16:32] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[03:16:40] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b9add35
+[03:16:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2903] logged in with entity id 96,424 at (-75.218, 56, 333.221)
+[03:17:25] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> zzzz[m
+[03:17:28] [Async Chat Thread - 6/INFO] [/]: <Tomate_Plays> zzzzzzzzzzzzzzzzzzzzzzzz[m
+[03:17:46] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> kickvermelol[m
+[03:18:04] [Async Chat Thread - 6/INFO] [/]: <Tomate_Plays> PQP[m
+[03:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Hot Stuff]
+[03:24:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [A Night of Torment]
+[03:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Face your Fears]
+[03:48:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
+[03:48:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
+[03:48:23] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
+[03:48:23] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[03:48:28] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@61f90855
+[03:48:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:61902] logged in with entity id 109,080 at (-108.5, 58, 155.5)
+[03:50:08] [Async Chat Thread - 7/INFO] [/]: <Tomate_Plays> DORMEEE[m
+[04:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [A Seedy Place]
+[04:01:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 lost connection: Disconnected
+[04:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 left the game
+[04:03:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Berry Good!]
+[04:04:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
+[04:04:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
+[04:12:30] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-80, y=64, z=193} BlockPos{x=-107, y=73, z=194}
+[04:12:31] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-80, y=64, z=193} BlockPos{x=-106, y=74, z=194}
+[04:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Take Aim]
+[04:17:15] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-25, y=62, z=188} BlockPos{x=-97, y=48, z=190}
+[04:17:15] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-25, y=62, z=188} BlockPos{x=-97, y=48, z=190}
+[04:18:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays lost connection: Disconnected
+[04:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays left the game
+[04:48:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Disconnected
+[04:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[08:14:34] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
+[08:14:34] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server stopping...
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[oscara]'/minecraft:overworld
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (oscara): All chunks are saved
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[good_dream]'/good_nights_sleep:good_dream
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (good_dream): All chunks are saved
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[twilightforest]'/twilightforest:twilightforest
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[nightmare]'/good_nights_sleep:nightmare
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[skylight_forest]'/twilightforest:skylight_forest
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[spatial_storage]'/appliedenergistics2:spatial_storage
+[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved

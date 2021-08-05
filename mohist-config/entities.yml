@@ -199,3 +199,31 @@ overrides:
     skip-every: default
   xratedjunior-betterdefaultbiomes-common-entity-passive-MuddyPigEntity:
     skip-every: default
+  net-minecraft-entity-monster-PhantomEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityMosquitoSpit:
+    skip-every: default
+  net-minecraft-entity-monster-WitherSkeletonEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-FireballEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityWarpedToad:
+    skip-every: default
+  net-minecraft-entity-item-EnderPearlEntity:
+    skip-every: default
+  com-legacy-goodnightsleep-entity-TormenterEntity:
+    skip-every: default
+  net-minecraft-entity-monster-SilverfishEntity:
+    skip-every: default
+  com-legacy-goodnightsleep-entity-HerobrineEntity:
+    skip-every: default
+  net-minecraft-entity-monster-PillagerEntity:
+    skip-every: default
+  slimeknights-tconstruct-gadgets-entity-shuriken-QuartzShurikenEntity:
+    skip-every: default
+  net-minecraft-entity-merchant-villager-WanderingTraderEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-TraderLlamaEntity:
+    skip-every: default
+  net-minecraft-entity-passive-horse-SkeletonHorseEntity:
+    skip-every: default

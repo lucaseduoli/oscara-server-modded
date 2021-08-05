@@ -41,3 +41,15 @@ overrides:
     skip-every: default
   com-progwml6-ironchest-common-block-tileentity-GoldChestTileEntity:
     skip-every: default
+  slimeknights-tconstruct-smeltery-tileentity-CastingTileEntity$Basin:
+    skip-every: default
+  slimeknights-tconstruct-smeltery-tileentity-CastingTileEntity$Table:
+    skip-every: default
+  slimeknights-tconstruct-smeltery-tileentity-controller-MelterTileEntity:
+    skip-every: default
+  slimeknights-tconstruct-smeltery-tileentity-ChannelTileEntity:
+    skip-every: default
+  slimeknights-tconstruct-smeltery-tileentity-FaucetTileEntity:
+    skip-every: default
+  slimeknights-tconstruct-smeltery-tileentity-controller-SmelteryTileEntity:
+    skip-every: default
