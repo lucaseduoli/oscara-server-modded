@@ -1,265 +1,119 @@
-[00:00:52] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
-[00:00:52] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[00:01:03] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3fef1ec7
-[00:01:03] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:57683] logged in with entity id 5,491 at (-82.263, 62.562, 192.976)
-[00:06:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Pic-A-Nic Basket?]
-[00:12:41] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[00:12:41] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[00:12:49] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4ca863a6
-[00:12:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2816] logged in with entity id 10,885 at (29.377, 45, 365.753)
-[00:13:53] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[00:13:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[00:20:07] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[00:20:07] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[00:20:15] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@3e82590
-[00:20:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2649] logged in with entity id 13,592 at (29.377, 45, 365.753)
-[00:24:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Wheat]
-[00:25:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [This is new]
-[00:25:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was slain by Cave Spider
-[00:28:57] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
-[00:28:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
-[00:30:36] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Adolpho2 is 8a7544f7-d073-35c9-85b6-f93a03a9d1fe
-[00:30:37] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[00:30:44] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@aa561c4
-[00:30:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Adolpho2[/177.183.30.96:52163] logged in with entity id 19,342 at (-107.5, 64, 185.5)
-[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Vanilla Jetpacks]
-[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Immersive Engineering Jetpacks]
-[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Mekanism Jetpacks]
-[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has completed the challenge [Simply Jetpacks 2]
-[00:30:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Better Default Biomes]
-[00:31:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Alex's Mobs]
-[00:36:06] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Masterptk is 1a9b61ea-e986-3a56-b4f3-0487211abef5
-[00:36:06] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[00:36:13] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@52791e56
-[00:36:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Masterptk[/201.75.170.138:16777] logged in with entity id 21,549 at (-81.684, 62, 191.41)
-[00:36:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Stone Age]
-[00:37:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Simple Farming]
-[00:39:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Acquire Hardware]
-[00:39:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Monster Hunter]
-[00:39:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was blown up by Creeper
-[00:39:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was slain by Zombie
-[00:39:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Isn't It Iron Pick]
-[00:42:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Monster Hunter]
-[00:42:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was blown up by Creeper
-[00:42:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Berry Good!]
-[00:44:08] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Disconnected
-[00:44:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[00:44:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Eye of The Storm]
-[00:45:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [This is new]
-[00:46:12] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-53, y=64, z=156} BlockPos{x=-98, y=72, z=198}
-[00:50:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[00:51:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[00:52:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Ice Bucket Challenge]
-[00:55:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Suit Up]
-[00:55:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Suit Up]
-[00:56:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Suit Up]
-[00:57:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [We Need to Go Deeper]
-[00:57:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [We Need to Go Deeper]
-[00:57:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [We Need to Go Deeper]
-[00:59:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Nightmare Fuel]
-[01:00:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[01:00:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Nightmare Fuel]
-[01:01:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Suit Up]
-[01:01:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [We Need to Go Deeper]
-[01:01:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Nightmare Fuel]
-[01:03:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[01:04:26] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
-[01:04:26] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:04:31] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@109ca6cb
-[01:04:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:57684] logged in with entity id 35,385 at (-111.83, 58, 156.51)
-[01:05:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays fell from a high place
-[01:07:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Oh Shiny]
-[01:08:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Hoglin
-[01:09:38] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-83, y=62, z=189} BlockPos{x=-115, y=71, z=204}
-[01:09:38] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-83, y=62, z=189} BlockPos{x=-115, y=72, z=206}
-[01:09:47] [User Authenticator #9/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[01:09:47] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:09:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Crimson Mosquito
-[01:09:55] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@20605219
-[01:09:56] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2875] logged in with entity id 37,274 at (-73.894, 56, 332.708)
-[01:10:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has reached the goal [Blood Island]
-[01:11:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[01:11:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[01:11:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Those Were the Days]
-[01:11:57] [User Authenticator #10/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[01:11:57] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:12:05] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@49a1713e
-[01:12:05] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2876] logged in with entity id 39,117 at (-75.926, 56, 332.151)
-[01:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Nightmare Fuel]
-[01:13:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [War Pigs]
-[01:15:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Those Were the Days]
-[01:16:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Crimson Mosquito
-[01:18:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[01:19:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Piglin
-[01:19:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Diamonds!]
-[01:20:06] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays moved too quickly! -7.82,2.88,8.268
-[01:20:39] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk lost connection: Disconnected
-[01:20:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk left the game
-[01:21:11] [User Authenticator #11/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Masterptk is 1a9b61ea-e986-3a56-b4f3-0487211abef5
-[01:21:11] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[01:21:18] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6f30eefd
-[01:21:18] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Masterptk[/201.75.170.138:16786] logged in with entity id 47,977 at (17.769, 79, 94.912)
-[01:21:27] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -0.232,0,-11.524
-[01:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[01:23:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk hit the ground too hard
-[01:23:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[01:25:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays moved too quickly! -13.083,2.166,-6.029
-[01:26:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Zombified Piglin
-[01:28:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Suit Up]
-[01:29:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Those Were the Days]
-[01:30:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR burned to death
-[01:30:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk burned to death
-[01:31:09] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-174, y=63, z=116} BlockPos{x=-174, y=62, z=116}
-[01:33:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR was slain by Piglin
-[01:33:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk tried to swim in lava
-[01:34:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Crimson Mosquito
-[01:35:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Sweet Dreams]
-[01:35:26] [Async Chat Thread - 2/INFO] [/]: <Tomate_Plays> amimir[m
-[01:35:32] [Async Chat Thread - 2/INFO] [/]: <SprainedBow> fdp[m
-[01:35:36] [Async Chat Thread - 2/INFO] [/]: <SprainedBow> cm q faz o robo[m
-[01:35:39] [Async Chat Thread - 2/INFO] [/]: <SprainedBow> poha[m
-[01:36:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[01:37:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Chompy]
-[01:37:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Crocodile
-[01:37:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
-[01:37:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Chompy]
-[01:38:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was slain by Crocodile
-[01:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Crocodile
-[01:38:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 was slain by Crocodile
-[01:41:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Shocking]
-[01:41:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR tried to swim in lava
-[01:43:21] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays issued server command: /w LukeOliBR bó fzr algum trouxa dormir nas strange bad
-[01:43:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [Rainbows and Unicorns!]
-[01:43:42] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -4.717,1.169,-8.882
-[01:43:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR has made the advancement [A Night of Torment]
-[01:43:48] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -2.566,2.252,-10.462
-[01:44:31] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR moved too quickly! -0.055,-0.271,-10.033
-[01:45:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Take Aim]
-[01:45:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: LukeOliBR lost connection: Timed out
-[01:45:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: LukeOliBR left the game
-[01:45:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Elephant
-[01:47:18] [Async Chat Thread - 3/INFO] [/]: <Cadu1107> hmmmmmmmmmmmmm[m
-[01:48:32] [Async Chat Thread - 4/INFO] [/]: <SprainedBow> a[m
-[01:48:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Rainbows and Unicorns!]
-[01:48:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [A Night of Torment]
-[01:48:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Rainbows and Unicorns!]
-[01:48:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [A Night of Torment]
-[01:50:06] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 moved too quickly! 6.988,0,-7.294
-[01:58:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Face your Fears]
-[02:00:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -6.116,-1.232,8.404
-[02:00:07] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays moved too quickly! 5.048,0.055,-12.121
-[02:00:24] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk was kicked for floating too long!
-[02:00:24] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk lost connection: Flying is not enabled on this server
-[02:00:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk left the game
-[02:00:36] [User Authenticator #12/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Masterptk is 1a9b61ea-e986-3a56-b4f3-0487211abef5
-[02:00:36] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[02:00:47] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@6520286
-[02:00:47] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Masterptk[/201.75.170.138:16723] logged in with entity id 66,924 at (-52.388, 69, 216.144)
-[02:00:47] [Server thread/WARN] [/]: net.skinsrestorer.shared.exception.ReflectionException: java.lang.NoSuchMethodException: net.minecraft.network.play.server.SRespawnPacket.<init>(com.legacy.goodnightsleep.registry.GNSDimensions$1, net.minecraft.util.RegistryKey, long, net.minecraft.world.GameType, net.minecraft.world.GameType, boolean, boolean, boolean)
-[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.shared.utils.ReflectionUtil.invokeConstructor(ReflectionUtil.java:214)
-[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.bukkit.skinapplier.SpigotSkinRefresher.accept(SpigotSkinRefresher.java:176)
-[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.bukkit.skinapplier.SpigotSkinRefresher.accept(SpigotSkinRefresher.java:38)
-[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.bukkit.SkinApplierBukkit.lambda$updateSkin$4(SkinApplierBukkit.java:168)
-[02:00:47] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:97)
-[02:00:47] [Server thread/WARN] [/]: 	at org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:462)
-[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:999)
-[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:334)
-[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:945)
-[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServer.java:760)
-[02:00:47] [Server thread/WARN] [/]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServer.java:270)
-[02:00:47] [Server thread/WARN] [/]: 	at java.base/java.lang.Thread.run(Unknown Source)
-[02:00:47] [Server thread/WARN] [/]: Caused by: java.lang.NoSuchMethodException: net.minecraft.network.play.server.SRespawnPacket.<init>(com.legacy.goodnightsleep.registry.GNSDimensions$1, net.minecraft.util.RegistryKey, long, net.minecraft.world.GameType, net.minecraft.world.GameType, boolean, boolean, boolean)
-[02:00:47] [Server thread/WARN] [/]: 	at java.base/java.lang.Class.getConstructor0(Unknown Source)
-[02:00:47] [Server thread/WARN] [/]: 	at java.base/java.lang.Class.getConstructor(Unknown Source)
-[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.shared.utils.ReflectionUtil.getConstructor(ReflectionUtil.java:71)
-[02:00:47] [Server thread/WARN] [/]: 	at net.skinsrestorer.shared.utils.ReflectionUtil.invokeConstructor(ReflectionUtil.java:212)
-[02:00:47] [Server thread/WARN] [/]: 	... 11 more
-[02:00:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk was slain by Zombie
-[02:01:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk has made the advancement [Rainbows and Unicorns!]
-[02:04:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow has made the advancement [Hot Stuff]
-[02:09:37] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 moved too quickly! -314.15,-1.797,377.169
-[02:09:40] [Server thread/WARN] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk moved too quickly! -64.346,-4,20.582
-[02:10:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Prismatic!]
-[02:10:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Prismatic!]
-[02:15:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 has made the advancement [Suit Up]
-[02:17:23] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-116, y=64, z=27} BlockPos{x=-117, y=62, z=29}
-[02:17:23] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-116, y=64, z=27} BlockPos{x=-117, y=62, z=29}
-[02:17:23] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-116, y=64, z=27} BlockPos{x=-117, y=62, z=29}
-[02:17:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Masterptk lost connection: Disconnected
-[02:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Masterptk left the game
-[02:19:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 was slain by Crocodile
-[02:39:58] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 issued server command: /tp @s -156 62 -140
-[02:51:52] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-95, y=39, z=208} BlockPos{x=-96, y=39, z=208}
-[02:52:02] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-96, y=40, z=209} BlockPos{x=-96, y=38, z=208}
-[02:52:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Unknown Technology]
-[02:57:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 suffocated in a wall
-[03:01:36] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 lost connection: Disconnected
-[03:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 left the game
-[03:01:49] [Async Chat Thread - 5/INFO] [/]: <Cadu1107> hmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm sonin baum[m
-[03:02:07] [User Authenticator #13/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Adolpho2 is 8a7544f7-d073-35c9-85b6-f93a03a9d1fe
-[03:02:07] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[03:02:13] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7868b081
-[03:02:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Adolpho2[/177.183.30.96:52444] logged in with entity id 92,372 at (-85.395, 68, 105.694)
-[03:02:27] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[03:02:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[03:03:39] [User Authenticator #14/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[03:03:39] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[03:03:54] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1df6ba09
-[03:03:54] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2880] logged in with entity id 92,757 at (-75.218, 56, 333.221)
-[03:04:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Timed out
-[03:04:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[03:05:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [The End of the Rainbow]
-[03:16:32] [User Authenticator #15/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
-[03:16:32] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[03:16:40] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@b9add35
-[03:16:40] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2903] logged in with entity id 96,424 at (-75.218, 56, 333.221)
-[03:17:25] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> zzzz[m
-[03:17:28] [Async Chat Thread - 6/INFO] [/]: <Tomate_Plays> zzzzzzzzzzzzzzzzzzzzzzzz[m
-[03:17:46] [Async Chat Thread - 6/INFO] [/]: <SprainedBow> kickvermelol[m
-[03:18:04] [Async Chat Thread - 6/INFO] [/]: <Tomate_Plays> PQP[m
-[03:24:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Hot Stuff]
-[03:24:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [A Night of Torment]
-[03:29:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [Face your Fears]
-[03:48:14] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
-[03:48:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
-[03:48:23] [User Authenticator #16/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Cadu1107 is 8b01d3b9-89a3-38a3-b2fb-179bdafd70da
-[03:48:23] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
-[03:48:28] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@61f90855
-[03:48:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Cadu1107[/179.234.33.200:61902] logged in with entity id 109,080 at (-108.5, 58, 155.5)
-[03:50:08] [Async Chat Thread - 7/INFO] [/]: <Tomate_Plays> DORMEEE[m
-[04:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 has made the advancement [A Seedy Place]
-[04:01:02] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Adolpho2 lost connection: Disconnected
-[04:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Adolpho2 left the game
-[04:03:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Berry Good!]
-[04:04:12] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Cadu1107 lost connection: Disconnected
-[04:04:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Cadu1107 left the game
-[04:12:30] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-80, y=64, z=193} BlockPos{x=-107, y=73, z=194}
-[04:12:31] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-80, y=64, z=193} BlockPos{x=-106, y=74, z=194}
-[04:16:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [Take Aim]
-[04:17:15] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-25, y=62, z=188} BlockPos{x=-97, y=48, z=190}
-[04:17:15] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-25, y=62, z=188} BlockPos{x=-97, y=48, z=190}
-[04:18:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays lost connection: Disconnected
-[04:18:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays left the game
-[04:48:56] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Disconnected
-[04:48:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
-[08:14:34] [Server console handler/ERROR] [net.minecraft.server.dedicated.DedicatedServer/]: Caught previously unhandled exception :
-[08:14:34] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server stopping...
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[oscara]'/minecraft:overworld
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (oscara): All chunks are saved
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[good_dream]'/good_nights_sleep:good_dream
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (good_dream): All chunks are saved
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[twilightforest]'/twilightforest:twilightforest
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[nightmare]'/good_nights_sleep:nightmare
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[skylight_forest]'/twilightforest:skylight_forest
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
-[08:14:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[spatial_storage]'/appliedenergistics2:spatial_storage
-[08:14:34] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[00:41:46] [User Authenticator #3/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tomate_Plays is 42a9c1bf-46e6-3122-bfc0-f25a91b4990d
+[00:41:46] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[00:41:51] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@2b29408e
+[00:41:51] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tomate_Plays[/187.2.104.235:56606] logged in with entity id 6,573 at (-81.351, 62, 187.22)
+[01:07:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has reached the goal [Earthslime Island]
+[01:17:05] [User Authenticator #4/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[01:17:05] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[01:17:14] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@74fe0f0a
+[01:17:14] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2962] logged in with entity id 20,558 at (-63.789, 64, 317.697)
+[01:17:19] [Async Chat Thread - 2/INFO] [/]: <Tomate_Plays> hm[m
+[01:17:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow was slain by Zombie
+[01:18:36] [Async Chat Thread - 3/INFO] [/]: <SprainedBow> krl bicho me mato[m
+[01:19:29] [Async Chat Thread - 3/INFO] [/]: <Tomate_Plays> eita![m
+[01:20:54] [Async Chat Thread - 4/INFO] [/]: <SprainedBow> disc verme[m
+[01:20:59] [Async Chat Thread - 4/INFO] [/]: <Tomate_Plays> calmo[m
+[01:21:23] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=728, y=63, z=-453} BlockPos{x=-100, y=63, z=205}
+[01:21:43] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-108, y=73, z=194}
+[01:21:47] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-114, y=79, z=194}
+[01:21:47] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-114, y=79, z=194}
+[01:21:47] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-114, y=79, z=196}
+[01:21:47] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-115, y=78, z=197}
+[01:21:48] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-115, y=78, z=198}
+[01:21:48] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-115, y=78, z=198}
+[01:21:48] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-116, y=77, z=199}
+[01:21:48] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-116, y=76, z=200}
+[01:21:51] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-111, y=67, z=204}
+[01:21:51] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-111, y=67, z=204}
+[01:21:52] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-111, y=68, z=206}
+[01:21:52] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-88, y=68, z=197} BlockPos{x=-112, y=69, z=207}
+[01:21:57] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=208}
+[01:21:57] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=208}
+[01:21:57] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=208}
+[01:21:57] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=208}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-103, y=63, z=208}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-103, y=63, z=208}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=207}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-103, y=63, z=208}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-103, y=63, z=208}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-103, y=63, z=208}
+[01:21:58] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-103, y=63, z=208}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=208}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=207}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=206}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-101, y=63, z=206}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-101, y=63, z=206}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-100, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-101, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-101, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-101, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-101, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-102, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-103, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=205}
+[01:21:59] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=205}
+[01:22:00] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=63, z=205}
+[01:22:00] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-105, y=63, z=204}
+[01:22:00] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-105, y=64, z=203}
+[01:22:00] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=64, z=203}
+[01:22:00] [Server thread/WARN] [net.minecraft.server.management.PlayerInteractionManager/]: Mismatch in destroy block pos: BlockPos{x=-103, y=63, z=209} BlockPos{x=-104, y=64, z=203}
+[01:31:28] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Disconnected
+[01:31:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[01:57:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was slain by Piglin
+[01:58:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays fell from a high place
+[02:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has completed the challenge [Return to Sender]
+[02:26:49] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays lost connection: Disconnected
+[02:26:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays left the game
+[02:37:25] [User Authenticator #5/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tomate_Plays is 42a9c1bf-46e6-3122-bfc0-f25a91b4990d
+[02:37:26] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[02:37:30] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@39b07bdd
+[02:37:31] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tomate_Plays[/187.2.104.235:56300] logged in with entity id 31,376 at (-95.372, 63, 56.564)
+[02:38:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays has made the advancement [A Terrible Fortress]
+[02:49:40] [User Authenticator #6/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player SprainedBow is 75d188c8-3fb9-39ff-8f91-7f50c1734cf1
+[02:49:40] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 43 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, tlskincape, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[02:49:49] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@1556254e
+[02:49:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: SprainedBow[/179.235.94.190:2783] logged in with entity id 33,165 at (-75.774, 56, 331.607)
+[02:56:16] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: SprainedBow lost connection: Disconnected
+[02:56:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SprainedBow left the game
+[03:00:05] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays lost connection: Disconnected
+[03:00:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays left the game
+[04:03:35] [User Authenticator #7/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tomate_Plays is 42a9c1bf-46e6-3122-bfc0-f25a91b4990d
+[04:03:35] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[04:03:42] [Server thread/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: com.mojang.authlib.GameProfile@1d23c2f8[id=42a9c1bf-46e6-3122-bfc0-f25a91b4990d,name=Tomate_Plays,properties={},legacy=false] (/187.2.104.235:56710) lost connection: Disconnected
+[04:03:43] [User Authenticator #8/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Tomate_Plays is 42a9c1bf-46e6-3122-bfc0-f25a91b4990d
+[04:03:43] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.fml.network.FMLHandshakeHandler/]: Client attempting to join with 42 mods : minecraft, tconstruct, industrialforegoing, usefulbackpacks, titanium, simplyjetpacks, advancedperipherals, treeharvester, jei, movingelevators, betterdefaultbiomes, simplylight, simplefarming, mekanism, caelus, curios, mantle, xaerominimap, collective, xaeroworldmap, cookingforblockheads, citadel, alexsmobs, appliedenergistics2, good_nights_sleep, buildersaddition, uteamcore, curiouselytra, computercraft, carryon, betterburning, immersivepetroleum, forge, aquaculture, stackrefill, bloodmagic, twilightforest, refinedstorage, immersiveposts, immersiveengineering, ironchest, corpse
+[04:03:49] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@46f32366
+[04:03:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Tomate_Plays[/187.2.104.235:56711] logged in with entity id 35,858 at (-366.658, 56, 302.678)
+[04:08:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays was slain by Piglin
+[04:08:48] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Tomate_Plays lost connection: Disconnected
+[04:08:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Tomate_Plays left the game
+[19:15:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[19:15:10] [Server thread/INFO] [stormedpanda.simplyjetpacks.SimplyJetpacks/]: Server stopping...
+[19:15:10] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19:15:10] [Server thread/INFO] [net.skinsrestorer.bukkit.SkinsRestorer/]: [SkinsRestorer] Disabling SkinsRestorer v14.1.1
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[oscara]'/minecraft:overworld
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (oscara): All chunks are saved
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM-1]'/minecraft:the_nether
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DIM1]'/minecraft:the_end
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[good_dream]'/good_nights_sleep:good_dream
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (good_dream): All chunks are saved
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[twilightforest]'/twilightforest:twilightforest
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (twilightforest): All chunks are saved
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[nightmare]'/good_nights_sleep:nightmare
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (nightmare): All chunks are saved
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[skylight_forest]'/twilightforest:skylight_forest
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (skylight_forest): All chunks are saved
+[19:15:11] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[spatial_storage]'/appliedenergistics2:spatial_storage
+[19:15:11] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved

@@ -227,3 +227,19 @@ overrides:
     skip-every: default
   net-minecraft-entity-passive-horse-SkeletonHorseEntity:
     skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityAlligatorSnappingTurtle:
+    skip-every: default
+  net-minecraft-entity-passive-horse-LlamaEntity:
+    skip-every: default
+  net-minecraft-entity-passive-DolphinEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityLobster:
+    skip-every: default
+  net-minecraft-entity-passive-fish-CodEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityFrilledShark:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntitySoulVulture:
+    skip-every: default
+  net-minecraft-entity-projectile-SmallFireballEntity:
+    skip-every: default
