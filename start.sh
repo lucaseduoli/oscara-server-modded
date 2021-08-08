@@ -3,4 +3,4 @@
 git add .
 git commit -m "backup"
 git push
-java -XX:+UseG1GC -jar server.jar nogui
+java -Xms14G -Xmx14G -XX:+UseG1GC -jar server.jar nogui
