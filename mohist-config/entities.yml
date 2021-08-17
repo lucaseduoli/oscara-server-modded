@@ -243,3 +243,59 @@ overrides:
     skip-every: default
   net-minecraft-entity-projectile-SmallFireballEntity:
     skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCentipedeTail:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityStraddler:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityStradpole:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntitySunbird:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityBaldEagle:
+    skip-every: default
+  net-minecraft-entity-passive-FoxEntity:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-hostile-FrozenZombieEntity:
+    skip-every: default
+  net-minecraft-entity-item-ArmorStandEntity:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-passive-FrogEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityHummingbird:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityShoebill:
+    skip-every: default
+  xratedjunior-betterdefaultbiomes-common-entity-passive-DuckEntity:
+    skip-every: default
+  net-minecraft-entity-item-PaintingEntity:
+    skip-every: default
+  slimeknights-tconstruct-gadgets-entity-shuriken-FlintShurikenEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-LlamaSpitEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntitySeal:
+    skip-every: default
+  net-minecraft-entity-passive-fish-PufferfishEntity:
+    skip-every: default
+  net-minecraft-entity-passive-fish-TropicalFishEntity:
+    skip-every: default
+  net-minecraft-entity-item-LeashKnotEntity:
+    skip-every: default
+  net-minecraft-entity-monster-VindicatorEntity:
+    skip-every: default
+  com-teammetallurgy-aquaculture-entity-TurtleLandEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCachalotWhale:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityKomodoDragon:
+    skip-every: default
+  net-minecraft-entity-item-BoatEntity:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityCachalotEcho:
+    skip-every: default
+  com-github-alexthe666-alexsmobs-entity-EntityBlobfish:
+    skip-every: default
+  net-minecraft-entity-passive-SnowGolemEntity:
+    skip-every: default
+  net-minecraft-entity-projectile-SnowballEntity:
+    skip-every: default

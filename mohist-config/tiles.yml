@@ -53,3 +53,23 @@ overrides:
     skip-every: default
   slimeknights-tconstruct-smeltery-tileentity-controller-SmelteryTileEntity:
     skip-every: default
+  net-minecraft-tileentity-BlastFurnaceTileEntity:
+    skip-every: default
+  net-minecraft-tileentity-BrewingStandTileEntity:
+    skip-every: default
+  net-minecraft-tileentity-EnchantingTableTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-CopperChestTileEntity:
+    skip-every: default
+  net-minecraft-tileentity-HopperTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-CrystalChestTileEntity:
+    skip-every: default
+  net-minecraft-tileentity-SkullTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-DirtChestTileEntity:
+    skip-every: default
+  com-progwml6-ironchest-common-block-tileentity-ObsidianChestTileEntity:
+    skip-every: default
+  de-srendi-advancedperipherals-common-blocks-tileentity-ChatBoxTileEntity:
+    skip-every: default
